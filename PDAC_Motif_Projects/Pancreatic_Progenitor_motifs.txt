@@ -1,0 +1,6014 @@
+[[1]]
+IGRAPH 2023837 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2023837 (vertex names):
+[1] MTMR7  --SLC7A14 MTMR7  --SLC4A10 SLC7A14--SLC4A10
+
+[[2]]
+IGRAPH 20241fb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20241fb (vertex names):
+[1] MTMR7--GAD2    MTMR7--SLC4A10 GAD2 --SLC4A10
+
+[[3]]
+IGRAPH 20246dd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20246dd (vertex names):
+[1] MTMR7 --ERO1LB  MTMR7 --SLC4A10 ERO1LB--SLC4A10
+
+[[4]]
+IGRAPH 202494e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202494e (vertex names):
+[1] MTMR7 --ERO1LB MTMR7 --GAD2   ERO1LB--GAD2  
+
+[[5]]
+IGRAPH 2024bbf UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2024bbf (vertex names):
+[1] MTMR7  --SLC7A14 MTMR7  --GAD2    SLC7A14--GAD2   
+
+[[6]]
+IGRAPH 2024bbf UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2024bbf (vertex names):
+[1] MTMR7--GAD2    MTMR7--SLC4A10 GAD2 --SLC4A10
+
+[[7]]
+IGRAPH 2024e30 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2024e30 (vertex names):
+[1] MTMR7--SEZ6L MTMR7--GAD2  SEZ6L--GAD2 
+
+[[8]]
+IGRAPH 2024e30 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2024e30 (vertex names):
+[1] MTMR7 --ERO1LB MTMR7 --GCK    ERO1LB--GCK   
+
+[[9]]
+IGRAPH 20250a1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20250a1 (vertex names):
+[1] MTMR7 --SNAP91 MTMR7 --SEZ6L  SNAP91--SEZ6L 
+
+[[10]]
+IGRAPH 20250a1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20250a1 (vertex names):
+[1] MTMR7  --SLC7A14 MTMR7  --SEZ6L   SLC7A14--SEZ6L  
+
+[[11]]
+IGRAPH 20250a1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20250a1 (vertex names):
+[1] MTMR7--SEZ6L MTMR7--GAD2  SEZ6L--GAD2 
+
+[[12]]
+IGRAPH 2025312 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025312 (vertex names):
+[1] MTMR7 --ERO1LB MTMR7 --GAD2   ERO1LB--GAD2  
+
+[[13]]
+IGRAPH 2025312 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025312 (vertex names):
+[1] MTMR7 --ERO1LB MTMR7 --GCK    ERO1LB--GCK   
+
+[[14]]
+IGRAPH 2025583 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025583 (vertex names):
+[1] MTMR7 --ERO1LB  MTMR7 --SLC4A10 ERO1LB--SLC4A10
+
+[[15]]
+IGRAPH 2025583 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025583 (vertex names):
+[1] MTMR7 --SNAP91 MTMR7 --SEZ6L  SNAP91--SEZ6L 
+
+[[16]]
+IGRAPH 2025583 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025583 (vertex names):
+[1] MTMR7  --SLC7A14 MTMR7  --SEZ6L   SLC7A14--SEZ6L  
+
+[[17]]
+IGRAPH 20257f4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20257f4 (vertex names):
+[1] MTMR7  --SLC7A14 MTMR7  --SLC4A10 SLC7A14--SLC4A10
+
+[[18]]
+IGRAPH 20257f4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20257f4 (vertex names):
+[1] MTMR7  --SLC7A14 MTMR7  --GAD2    SLC7A14--GAD2   
+
+[[19]]
+IGRAPH 2025a66 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025a66 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--CHSY3 SYDE1--CHSY3
+
+[[20]]
+IGRAPH 2025a66 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025a66 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--CHSY3 ACTA2--CHSY3
+
+[[21]]
+IGRAPH 2025a66 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025a66 (vertex names):
+[1] COPZ2--PRKD1 COPZ2--CHSY3 PRKD1--CHSY3
+
+[[22]]
+IGRAPH 2025cd7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025cd7 (vertex names):
+[1] COPZ2 --KIRREL COPZ2 --CHSY3  KIRREL--CHSY3 
+
+[[23]]
+IGRAPH 2025cd7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025cd7 (vertex names):
+[1] COPZ2 --OLFML1 COPZ2 --CHSY3  OLFML1--CHSY3 
+
+[[24]]
+IGRAPH 2025cd7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025cd7 (vertex names):
+[1] COPZ2--NDN   COPZ2--CHSY3 NDN  --CHSY3
+
+[[25]]
+IGRAPH 2025f48 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025f48 (vertex names):
+[1] COPZ2--LAMA4 COPZ2--CHSY3 LAMA4--CHSY3
+
+[[26]]
+IGRAPH 2025f48 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2025f48 (vertex names):
+[1] COPZ2--SPARC COPZ2--CHSY3 SPARC--CHSY3
+
+[[27]]
+IGRAPH 20261b9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20261b9 (vertex names):
+[1] COPZ2--BNC2  COPZ2--CHSY3 BNC2 --CHSY3
+
+[[28]]
+IGRAPH 20261b9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20261b9 (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --CHSY3  GXYLT2--CHSY3 
+
+[[29]]
+IGRAPH 20261b9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20261b9 (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --CHSY3  EFEMP2--CHSY3 
+
+[[30]]
+IGRAPH 202642a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202642a (vertex names):
+[1] COPZ2--PYGO1 COPZ2--CHSY3 PYGO1--CHSY3
+
+[[31]]
+IGRAPH 202642a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202642a (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --CHSY3  DPYSL3--CHSY3 
+
+[[32]]
+IGRAPH 202669b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202669b (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --CHSY3  COL3A1--CHSY3 
+
+[[33]]
+IGRAPH 2026b7d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2026b7d (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --CHSY3  PLXDC2--CHSY3 
+
+[[34]]
+IGRAPH 2026dee UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2026dee (vertex names):
+[1] COPZ2--FBN1  COPZ2--CHSY3 FBN1 --CHSY3
+
+[[35]]
+IGRAPH 202705f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202705f (vertex names):
+[1] COPZ2--HTRA1 COPZ2--CHSY3 HTRA1--CHSY3
+
+[[36]]
+IGRAPH 202705f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202705f (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --CHSY3  GLT8D2--CHSY3 
+
+[[37]]
+IGRAPH 20272d0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20272d0 (vertex names):
+[1] COPZ2--CDH11 COPZ2--CHSY3 CDH11--CHSY3
+
+[[38]]
+IGRAPH 2027541 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2027541 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --CHSY3  COL1A2--CHSY3 
+
+[[39]]
+IGRAPH 2027541 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2027541 (vertex names):
+[1] COPZ2--FSTL1 COPZ2--CHSY3 FSTL1--CHSY3
+
+[[40]]
+IGRAPH 20277b2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20277b2 (vertex names):
+[1] COPZ2--DDR2  COPZ2--CHSY3 DDR2 --CHSY3
+
+[[41]]
+IGRAPH 20277b2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20277b2 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --CHSY3  COL6A2--CHSY3 
+
+[[42]]
+IGRAPH 20277b3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20277b3 (vertex names):
+[1] COPZ2--THY1  COPZ2--CHSY3 THY1 --CHSY3
+
+[[43]]
+IGRAPH 2027a23 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2027a23 (vertex names):
+[1] COPZ2--EDNRA COPZ2--CHSY3 EDNRA--CHSY3
+
+[[44]]
+IGRAPH 2027a23 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2027a23 (vertex names):
+[1] COPZ2--FEZ1  COPZ2--CHSY3 FEZ1 --CHSY3
+
+[[45]]
+IGRAPH 2027a24 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2027a24 (vertex names):
+[1] COPZ2   --C14orf37        COPZ2   --ENSG00000186310 C14orf37--ENSG00000186310
+
+[[46]]
+IGRAPH 2027c94 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2027c94 (vertex names):
+[1] COPZ2--PYGO1           COPZ2--ENSG00000186310 PYGO1--ENSG00000186310
+
+[[47]]
+IGRAPH 2027c94 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2027c94 (vertex names):
+[1] COPZ2--NDN             COPZ2--ENSG00000186310 NDN  --ENSG00000186310
+
+[[48]]
+IGRAPH 2027f05 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2027f05 (vertex names):
+[1] COPZ2--NDN   COPZ2--PRKD1 NDN  --PRKD1
+
+[[49]]
+IGRAPH 2027f05 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2027f05 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --PRKD1    C14orf37--PRKD1   
+
+[[50]]
+IGRAPH 2028176 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2028176 (vertex names):
+[1] COPZ2--PYGO1 COPZ2--PRKD1 PYGO1--PRKD1
+
+[[51]]
+IGRAPH 2028176 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2028176 (vertex names):
+[1] COPZ2 --KIRREL COPZ2 --PRKD1  KIRREL--PRKD1 
+
+[[52]]
+IGRAPH 20283e7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20283e7 (vertex names):
+[1] COPZ2--FEZ1  COPZ2--PRKD1 FEZ1 --PRKD1
+
+[[53]]
+IGRAPH 20283e7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20283e7 (vertex names):
+[1] COPZ2--PRKD1 COPZ2--CHSY3 PRKD1--CHSY3
+
+[[54]]
+IGRAPH 2028658 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2028658 (vertex names):
+[1] COPZ2--LAMA4 COPZ2--PRKD1 LAMA4--PRKD1
+
+[[55]]
+IGRAPH 20288c9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20288c9 (vertex names):
+[1] COPZ2--MPDZ  COPZ2--PRKD1 MPDZ --PRKD1
+
+[[56]]
+IGRAPH 20288c9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20288c9 (vertex names):
+[1] COPZ2--BNC2  COPZ2--PRKD1 BNC2 --PRKD1
+
+[[57]]
+IGRAPH 2028b3b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2028b3b (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --PRKD1  GXYLT2--PRKD1 
+
+[[58]]
+IGRAPH 2028dac UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2028dac (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --PRKD1  EFEMP2--PRKD1 
+
+[[59]]
+IGRAPH 2028dac UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2028dac (vertex names):
+[1] COPZ2--ACTA2 COPZ2--PRKD1 ACTA2--PRKD1
+
+[[60]]
+IGRAPH 202901d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202901d (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --PRKD1  DPYSL3--PRKD1 
+
+[[61]]
+IGRAPH 202928e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202928e (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --PRKD1  COL3A1--PRKD1 
+
+[[62]]
+IGRAPH 20294ff UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20294ff (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --PRKD1  PLXDC2--PRKD1 
+
+[[63]]
+IGRAPH 2029770 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2029770 (vertex names):
+[1] COPZ2--FBN1  COPZ2--PRKD1 FBN1 --PRKD1
+
+[[64]]
+IGRAPH 20299e1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20299e1 (vertex names):
+[1] COPZ2--MXRA7 COPZ2--PRKD1 MXRA7--PRKD1
+
+[[65]]
+IGRAPH 2029c52 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2029c52 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --PRKD1  GLT8D2--PRKD1 
+
+[[66]]
+IGRAPH 2029ec3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2029ec3 (vertex names):
+[1] COPZ2--CDH11 COPZ2--PRKD1 CDH11--PRKD1
+
+[[67]]
+IGRAPH 2029ec3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2029ec3 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --PRKD1  COL1A2--PRKD1 
+
+[[68]]
+IGRAPH 202a134 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202a134 (vertex names):
+[1] COPZ2--FSTL1 COPZ2--PRKD1 FSTL1--PRKD1
+
+[[69]]
+IGRAPH 202a3a6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202a3a6 (vertex names):
+[1] COPZ2--DDR2  COPZ2--PRKD1 DDR2 --PRKD1
+
+[[70]]
+IGRAPH 202a3a6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202a3a6 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --PRKD1  COL6A2--PRKD1 
+
+[[71]]
+IGRAPH 202a617 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202a617 (vertex names):
+[1] COPZ2 --HHIPL1 COPZ2 --PRKD1  HHIPL1--PRKD1 
+
+[[72]]
+IGRAPH 202a617 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202a617 (vertex names):
+[1] COPZ2--ZFPM2 COPZ2--PRKD1 ZFPM2--PRKD1
+
+[[73]]
+IGRAPH 202a888 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202a888 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --PRKD1  COL8A1--PRKD1 
+
+[[74]]
+IGRAPH 202a888 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202a888 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --PRKD1  COX7A1--PRKD1 
+
+[[75]]
+IGRAPH 202aaf9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202aaf9 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--PRKD1 SYDE1--PRKD1
+
+[[76]]
+IGRAPH 202ad6a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202ad6a (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --PRKD1   RASGRF2--PRKD1  
+
+[[77]]
+IGRAPH 202ad6a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202ad6a (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --PRKD1   HSPA12A--PRKD1  
+
+[[78]]
+IGRAPH 202afdb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202afdb (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --KIRREL  HSPA12A--KIRREL 
+
+[[79]]
+IGRAPH 202afdb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202afdb (vertex names):
+[1] COPZ2 --CERCAM COPZ2 --KIRREL CERCAM--KIRREL
+
+[[80]]
+IGRAPH 202b24c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202b24c (vertex names):
+[1] COPZ2--SYDE1  COPZ2--KIRREL SYDE1--KIRREL
+
+[[81]]
+IGRAPH 202b24c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202b24c (vertex names):
+[1] COPZ2--PYGO1  COPZ2--KIRREL PYGO1--KIRREL
+
+[[82]]
+IGRAPH 202b4bd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202b4bd (vertex names):
+[1] COPZ2 --KIRREL COPZ2 --PRKD1  KIRREL--PRKD1 
+
+[[83]]
+IGRAPH 202b4bd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202b4bd (vertex names):
+[1] COPZ2--FEZ1   COPZ2--KIRREL FEZ1 --KIRREL
+
+[[84]]
+IGRAPH 202b99f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202b99f (vertex names):
+[1] COPZ2 --KIRREL COPZ2 --CHSY3  KIRREL--CHSY3 
+
+[[85]]
+IGRAPH 202be81 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202be81 (vertex names):
+[1] COPZ2--LAMA4  COPZ2--KIRREL LAMA4--KIRREL
+
+[[86]]
+IGRAPH 202c0f2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202c0f2 (vertex names):
+[1] COPZ2--MPDZ   COPZ2--KIRREL MPDZ --KIRREL
+
+[[87]]
+IGRAPH 202c363 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202c363 (vertex names):
+[1] COPZ2--ZFPM2  COPZ2--KIRREL ZFPM2--KIRREL
+
+[[88]]
+IGRAPH 202c5d4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202c5d4 (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --KIRREL GXYLT2--KIRREL
+
+[[89]]
+IGRAPH 202c5d4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202c5d4 (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --KIRREL EFEMP2--KIRREL
+
+[[90]]
+IGRAPH 202c845 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202c845 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --KIRREL COL6A2--KIRREL
+
+[[91]]
+IGRAPH 202cab6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202cab6 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --KIRREL DPYSL3--KIRREL
+
+[[92]]
+IGRAPH 202cab6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202cab6 (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --KIRREL COL3A1--KIRREL
+
+[[93]]
+IGRAPH 202cf98 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202cf98 (vertex names):
+[1] COPZ2--FSTL1  COPZ2--KIRREL FSTL1--KIRREL
+
+[[94]]
+IGRAPH 202d209 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202d209 (vertex names):
+[1] COPZ2--FSTL1  COPZ2--OLFML1 FSTL1--OLFML1
+
+[[95]]
+IGRAPH 202d47b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202d47b (vertex names):
+[1] COPZ2--SPARC  COPZ2--OLFML1 SPARC--OLFML1
+
+[[96]]
+IGRAPH 202d6ec UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202d6ec (vertex names):
+[1] COPZ2--THY1   COPZ2--OLFML1 THY1 --OLFML1
+
+[[97]]
+IGRAPH 202d95d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202d95d (vertex names):
+[1] COPZ2--SYDE1  COPZ2--OLFML1 SYDE1--OLFML1
+
+[[98]]
+IGRAPH 202d95d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202d95d (vertex names):
+[1] COPZ2--EDNRA  COPZ2--OLFML1 EDNRA--OLFML1
+
+[[99]]
+IGRAPH 202dbce UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202dbce (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --OLFML1   C14orf37--OLFML1  
+
+[[100]]
+IGRAPH 202de3f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202de3f (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --OLFML1 PLXDC2--OLFML1
+
+[[101]]
+IGRAPH 202de3f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202de3f (vertex names):
+[1] COPZ2 --OLFML1 COPZ2 --CHSY3  OLFML1--CHSY3 
+
+[[102]]
+IGRAPH 202e321 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202e321 (vertex names):
+[1] COPZ2--DDR2   COPZ2--OLFML1 DDR2 --OLFML1
+
+[[103]]
+IGRAPH 202e803 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202e803 (vertex names):
+[1] COPZ2--FBN1   COPZ2--OLFML1 FBN1 --OLFML1
+
+[[104]]
+IGRAPH 202ece6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202ece6 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --OLFML1 COL1A2--OLFML1
+
+[[105]]
+IGRAPH 202ef57 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202ef57 (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --OLFML1 GXYLT2--OLFML1
+
+[[106]]
+IGRAPH 202f1c8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202f1c8 (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --OLFML1 EFEMP2--OLFML1
+
+[[107]]
+IGRAPH 202f439 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202f439 (vertex names):
+[1] COPZ2--CDH11  COPZ2--OLFML1 CDH11--OLFML1
+
+[[108]]
+IGRAPH 202f6aa UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202f6aa (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --OLFML1 DPYSL3--OLFML1
+
+[[109]]
+IGRAPH 202f6aa UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202f6aa (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --OLFML1 COL3A1--OLFML1
+
+[[110]]
+IGRAPH 202f91b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202f91b (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --OLFML1 GLT8D2--OLFML1
+
+[[111]]
+IGRAPH 202f91b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202f91b (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --NDN     HSPA12A--NDN    
+
+[[112]]
+IGRAPH 202fb8c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202fb8c (vertex names):
+[1] COPZ2--FSTL1 COPZ2--NDN   FSTL1--NDN  
+
+[[113]]
+IGRAPH 202fb8c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202fb8c (vertex names):
+[1] COPZ2--NDN             COPZ2--ENSG00000186310 NDN  --ENSG00000186310
+
+[[114]]
+IGRAPH 202fdfd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 202fdfd (vertex names):
+[1] COPZ2--PYGO1 COPZ2--NDN   PYGO1--NDN  
+
+[[115]]
+IGRAPH 203006e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203006e (vertex names):
+[1] COPZ2--NDN   COPZ2--PRKD1 NDN  --PRKD1
+
+[[116]]
+IGRAPH 203006e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203006e (vertex names):
+[1] COPZ2--EDNRA COPZ2--NDN   EDNRA--NDN  
+
+[[117]]
+IGRAPH 20302df UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20302df (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --NDN      C14orf37--NDN     
+
+[[118]]
+IGRAPH 20302df UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20302df (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --NDN    PLXDC2--NDN   
+
+[[119]]
+IGRAPH 2030550 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2030550 (vertex names):
+[1] COPZ2--NDN   COPZ2--CHSY3 NDN  --CHSY3
+
+[[120]]
+IGRAPH 2030550 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2030550 (vertex names):
+[1] COPZ2--DDR2 COPZ2--NDN  DDR2 --NDN 
+
+[[121]]
+IGRAPH 20307c1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20307c1 (vertex names):
+[1] COPZ2--FEZ1 COPZ2--NDN  FEZ1 --NDN 
+
+[[122]]
+IGRAPH 2030a32 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2030a32 (vertex names):
+[1] COPZ2--BNC2 COPZ2--NDN  BNC2 --NDN 
+
+[[123]]
+IGRAPH 2030ca3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2030ca3 (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --NDN    GXYLT2--NDN   
+
+[[124]]
+IGRAPH 2030ca3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2030ca3 (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --NDN    EFEMP2--NDN   
+
+[[125]]
+IGRAPH 2030ca3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2030ca3 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --NDN    COX7A1--NDN   
+
+[[126]]
+IGRAPH 2030f14 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2030f14 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --NDN    DPYSL3--NDN   
+
+[[127]]
+IGRAPH 2030f14 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2030f14 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--NDN   ACTA2--NDN  
+
+[[128]]
+IGRAPH 2031185 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2031185 (vertex names):
+[1] COPZ2--MPDZ COPZ2--NDN  MPDZ --NDN 
+
+[[129]]
+IGRAPH 2031185 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2031185 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --NDN    COL6A2--NDN   
+
+[[130]]
+IGRAPH 2031185 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2031185 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --MXRA7  COL6A2--MXRA7 
+
+[[131]]
+IGRAPH 20313f6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20313f6 (vertex names):
+[1] COPZ2--MPDZ  COPZ2--MXRA7 MPDZ --MXRA7
+
+[[132]]
+IGRAPH 20313f6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20313f6 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--MXRA7 ACTA2--MXRA7
+
+[[133]]
+IGRAPH 20313f6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20313f6 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --MXRA7  DPYSL3--MXRA7 
+
+[[134]]
+IGRAPH 2031667 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2031667 (vertex names):
+[1] COPZ2--PYGO1 COPZ2--MXRA7 PYGO1--MXRA7
+
+[[135]]
+IGRAPH 20318d8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20318d8 (vertex names):
+[1] COPZ2--MXRA7 COPZ2--PRKD1 MXRA7--PRKD1
+
+[[136]]
+IGRAPH 20318d8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20318d8 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --MXRA7  COX7A1--MXRA7 
+
+[[137]]
+IGRAPH 2031b49 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2031b49 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --MXRA7    C14orf37--MXRA7   
+
+[[138]]
+IGRAPH 2031b49 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2031b49 (vertex names):
+[1] COPZ2--BNC2  COPZ2--MXRA7 BNC2 --MXRA7
+
+[[139]]
+IGRAPH 2031dbb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2031dbb (vertex names):
+[1] COPZ2--FEZ1  COPZ2--MXRA7 FEZ1 --MXRA7
+
+[[140]]
+IGRAPH 2031dbb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2031dbb (vertex names):
+[1] COPZ2--DDR2  COPZ2--MXRA7 DDR2 --MXRA7
+
+[[141]]
+IGRAPH 2031dbb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2031dbb (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --HHIPL1 EFEMP2--HHIPL1
+
+[[142]]
+IGRAPH 203202c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203202c (vertex names):
+[1] COPZ2 --HHIPL1 COPZ2 --PRKD1  HHIPL1--PRKD1 
+
+[[143]]
+IGRAPH 203202c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203202c (vertex names):
+[1] COPZ2--BNC2  COPZ2--PRKD1 BNC2 --PRKD1
+
+[[144]]
+IGRAPH 203229d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203229d (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --BNC2   EFEMP2--BNC2  
+
+[[145]]
+IGRAPH 203229d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203229d (vertex names):
+[1] COPZ2--ACTA2 COPZ2--BNC2  ACTA2--BNC2 
+
+[[146]]
+IGRAPH 203229d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203229d (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --BNC2   DPYSL3--BNC2  
+
+[[147]]
+IGRAPH 203250e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203250e (vertex names):
+[1] COPZ2--PYGO1 COPZ2--BNC2  PYGO1--BNC2 
+
+[[148]]
+IGRAPH 203250e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203250e (vertex names):
+[1] COPZ2--MPDZ COPZ2--BNC2 MPDZ --BNC2
+
+[[149]]
+IGRAPH 203277f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203277f (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --BNC2   COX7A1--BNC2  
+
+[[150]]
+IGRAPH 203277f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203277f (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --BNC2     C14orf37--BNC2    
+
+[[151]]
+IGRAPH 203277f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203277f (vertex names):
+[1] COPZ2--DDR2 COPZ2--BNC2 DDR2 --BNC2
+
+[[152]]
+IGRAPH 20329f0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20329f0 (vertex names):
+[1] COPZ2--FEZ1 COPZ2--BNC2 FEZ1 --BNC2
+
+[[153]]
+IGRAPH 20329f0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20329f0 (vertex names):
+[1] COPZ2--BNC2  COPZ2--CHSY3 BNC2 --CHSY3
+
+[[154]]
+IGRAPH 2032c61 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2032c61 (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --BNC2   GXYLT2--BNC2  
+
+[[155]]
+IGRAPH 2032c61 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2032c61 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --BNC2   COL6A2--BNC2  
+
+[[156]]
+IGRAPH 2032c61 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2032c61 (vertex names):
+[1] COPZ2--BNC2 COPZ2--NDN  BNC2 --NDN 
+
+[[157]]
+IGRAPH 2032ed2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2032ed2 (vertex names):
+[1] COPZ2--BNC2  COPZ2--MXRA7 BNC2 --MXRA7
+
+[[158]]
+IGRAPH 2032ed2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2032ed2 (vertex names):
+[1] COPZ2--LAMA4 COPZ2--BNC2  LAMA4--BNC2 
+
+[[159]]
+IGRAPH 2032ed2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2032ed2 (vertex names):
+[1] COPZ2--FSTL1 COPZ2--BNC2  FSTL1--BNC2 
+
+[[160]]
+IGRAPH 2033143 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2033143 (vertex names):
+[1] COPZ2--ZFPM2 COPZ2--BNC2  ZFPM2--BNC2 
+
+[[161]]
+IGRAPH 2033896 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2033896 (vertex names):
+[1] COPZ2--ZFPM2  COPZ2--GXYLT2 ZFPM2--GXYLT2
+
+[[162]]
+IGRAPH 2033896 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2033896 (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --PRKD1  GXYLT2--PRKD1 
+
+[[163]]
+IGRAPH 2033b07 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2033b07 (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --GXYLT2 EFEMP2--GXYLT2
+
+[[164]]
+IGRAPH 2033d78 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2033d78 (vertex names):
+[1] COPZ2--ACTA2  COPZ2--GXYLT2 ACTA2--GXYLT2
+
+[[165]]
+IGRAPH 2033d78 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2033d78 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --GXYLT2 DPYSL3--GXYLT2
+
+[[166]]
+IGRAPH 2033fe9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2033fe9 (vertex names):
+[1] COPZ2--PYGO1  COPZ2--GXYLT2 PYGO1--GXYLT2
+
+[[167]]
+IGRAPH 2033fe9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2033fe9 (vertex names):
+[1] COPZ2--MPDZ   COPZ2--GXYLT2 MPDZ --GXYLT2
+
+[[168]]
+IGRAPH 203425a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203425a (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --GXYLT2 PLXDC2--GXYLT2
+
+[[169]]
+IGRAPH 203425a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203425a (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --GXYLT2   C14orf37--GXYLT2  
+
+[[170]]
+IGRAPH 203425b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203425b (vertex names):
+[1] COPZ2--DDR2   COPZ2--GXYLT2 DDR2 --GXYLT2
+
+[[171]]
+IGRAPH 20344cb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20344cb (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --GXYLT2  HSPA12A--GXYLT2 
+
+[[172]]
+IGRAPH 20344cb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20344cb (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --CHSY3  GXYLT2--CHSY3 
+
+[[173]]
+IGRAPH 203473c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203473c (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --BNC2   GXYLT2--BNC2  
+
+[[174]]
+IGRAPH 203473c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203473c (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --GXYLT2 COL6A2--GXYLT2
+
+[[175]]
+IGRAPH 203473d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203473d (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --NDN    GXYLT2--NDN   
+
+[[176]]
+IGRAPH 20349ad UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20349ad (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --GXYLT2 GLT8D2--GXYLT2
+
+[[177]]
+IGRAPH 20349ad UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20349ad (vertex names):
+[1] COPZ2--LAMA4  COPZ2--GXYLT2 LAMA4--GXYLT2
+
+[[178]]
+IGRAPH 2034c1e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2034c1e (vertex names):
+[1] COPZ2--FSTL1  COPZ2--GXYLT2 FSTL1--GXYLT2
+
+[[179]]
+IGRAPH 2034c1e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2034c1e (vertex names):
+[1] COPZ2--SPARC  COPZ2--GXYLT2 SPARC--GXYLT2
+
+[[180]]
+IGRAPH 2034c1f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2034c1f (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --OLFML1 GXYLT2--OLFML1
+
+[[181]]
+IGRAPH 2034e90 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2034e90 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --GXYLT2 COL8A1--GXYLT2
+
+[[182]]
+IGRAPH 2034e90 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2034e90 (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --GXYLT2 COL3A1--GXYLT2
+
+[[183]]
+IGRAPH 2035101 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035101 (vertex names):
+[1] COPZ2--CDH11  COPZ2--GXYLT2 CDH11--GXYLT2
+
+[[184]]
+IGRAPH 2035101 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035101 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --GXYLT2  RASGRF2--GXYLT2 
+
+[[185]]
+IGRAPH 2035101 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035101 (vertex names):
+[1] COPZ2--FNDC1  COPZ2--GXYLT2 FNDC1--GXYLT2
+
+[[186]]
+IGRAPH 2035372 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035372 (vertex names):
+[1] COPZ2 --GXYLT2 COPZ2 --KIRREL GXYLT2--KIRREL
+
+[[187]]
+IGRAPH 2035372 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035372 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --GXYLT2 COL1A2--GXYLT2
+
+[[188]]
+IGRAPH 2035372 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035372 (vertex names):
+[1] COPZ2--THY1   COPZ2--GXYLT2 THY1 --GXYLT2
+
+[[189]]
+IGRAPH 20355e3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20355e3 (vertex names):
+[1] COPZ2 --CERCAM COPZ2 --GXYLT2 CERCAM--GXYLT2
+
+[[190]]
+IGRAPH 20355e3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20355e3 (vertex names):
+[1] COPZ2--FBN1   COPZ2--GXYLT2 FBN1 --GXYLT2
+
+[[191]]
+IGRAPH 2035854 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035854 (vertex names):
+[1] COPZ2--SYDE1  COPZ2--GXYLT2 SYDE1--GXYLT2
+
+[[192]]
+IGRAPH 2035854 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035854 (vertex names):
+[1] COPZ2--SYDE1  COPZ2--EFEMP2 SYDE1--EFEMP2
+
+[[193]]
+IGRAPH 2035854 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035854 (vertex names):
+[1] COPZ2--ZFPM2  COPZ2--EFEMP2 ZFPM2--EFEMP2
+
+[[194]]
+IGRAPH 2035ac5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035ac5 (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --PRKD1  EFEMP2--PRKD1 
+
+[[195]]
+IGRAPH 2035d36 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035d36 (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --GXYLT2 EFEMP2--GXYLT2
+
+[[196]]
+IGRAPH 2035d36 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2035d36 (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --HHIPL1 EFEMP2--HHIPL1
+
+[[197]]
+IGRAPH 2036218 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2036218 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --EFEMP2 DPYSL3--EFEMP2
+
+[[198]]
+IGRAPH 2036489 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2036489 (vertex names):
+[1] COPZ2--PYGO1  COPZ2--EFEMP2 PYGO1--EFEMP2
+
+[[199]]
+IGRAPH 2036489 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2036489 (vertex names):
+[1] COPZ2--MPDZ   COPZ2--EFEMP2 MPDZ --EFEMP2
+
+[[200]]
+IGRAPH 20366fb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20366fb (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --EFEMP2 PLXDC2--EFEMP2
+
+[[201]]
+IGRAPH 203696c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203696c (vertex names):
+[1] COPZ2--FEZ1   COPZ2--EFEMP2 FEZ1 --EFEMP2
+
+[[202]]
+IGRAPH 203696c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203696c (vertex names):
+[1] COPZ2--DDR2   COPZ2--EFEMP2 DDR2 --EFEMP2
+
+[[203]]
+IGRAPH 2036bdd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2036bdd (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --EFEMP2  HSPA12A--EFEMP2 
+
+[[204]]
+IGRAPH 2036e4e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2036e4e (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --CHSY3  EFEMP2--CHSY3 
+
+[[205]]
+IGRAPH 2036e4e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2036e4e (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --BNC2   EFEMP2--BNC2  
+
+[[206]]
+IGRAPH 20370bf UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20370bf (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --EFEMP2 COL6A2--EFEMP2
+
+[[207]]
+IGRAPH 20370bf UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20370bf (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --NDN    EFEMP2--NDN   
+
+[[208]]
+IGRAPH 2037330 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037330 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --EFEMP2 GLT8D2--EFEMP2
+
+[[209]]
+IGRAPH 2037330 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037330 (vertex names):
+[1] COPZ2--LAMA4  COPZ2--EFEMP2 LAMA4--EFEMP2
+
+[[210]]
+IGRAPH 2037330 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037330 (vertex names):
+[1] COPZ2--FSTL1  COPZ2--EFEMP2 FSTL1--EFEMP2
+
+[[211]]
+IGRAPH 20375a1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20375a1 (vertex names):
+[1] COPZ2--EDNRA  COPZ2--EFEMP2 EDNRA--EFEMP2
+
+[[212]]
+IGRAPH 20375a1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20375a1 (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --OLFML1 EFEMP2--OLFML1
+
+[[213]]
+IGRAPH 20375a1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20375a1 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --EFEMP2 COL8A1--EFEMP2
+
+[[214]]
+IGRAPH 2037812 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037812 (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --EFEMP2 COL3A1--EFEMP2
+
+[[215]]
+IGRAPH 2037812 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037812 (vertex names):
+[1] COPZ2--CDH11  COPZ2--EFEMP2 CDH11--EFEMP2
+
+[[216]]
+IGRAPH 2037a83 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037a83 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --EFEMP2  RASGRF2--EFEMP2 
+
+[[217]]
+IGRAPH 2037a83 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037a83 (vertex names):
+[1] COPZ2--ISLR   COPZ2--EFEMP2 ISLR --EFEMP2
+
+[[218]]
+IGRAPH 2037a83 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037a83 (vertex names):
+[1] COPZ2 --EFEMP2 COPZ2 --KIRREL EFEMP2--KIRREL
+
+[[219]]
+IGRAPH 2037cf4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037cf4 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --EFEMP2 COL1A2--EFEMP2
+
+[[220]]
+IGRAPH 2037cf4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037cf4 (vertex names):
+[1] COPZ2--THY1   COPZ2--EFEMP2 THY1 --EFEMP2
+
+[[221]]
+IGRAPH 2037f65 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037f65 (vertex names):
+[1] COPZ2 --CERCAM COPZ2 --EFEMP2 CERCAM--EFEMP2
+
+[[222]]
+IGRAPH 2037f65 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037f65 (vertex names):
+[1] COPZ2--FBN1   COPZ2--EFEMP2 FBN1 --EFEMP2
+
+[[223]]
+IGRAPH 2037f65 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2037f65 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --PYGO1  COX7A1--PYGO1 
+
+[[224]]
+IGRAPH 20381d6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20381d6 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --PYGO1    C14orf37--PYGO1   
+
+[[225]]
+IGRAPH 20381d6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20381d6 (vertex names):
+[1] COPZ2--PYGO1 COPZ2--MXRA7 PYGO1--MXRA7
+
+[[226]]
+IGRAPH 20386b8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20386b8 (vertex names):
+[1] COPZ2--PYGO1 COPZ2--PRKD1 PYGO1--PRKD1
+
+[[227]]
+IGRAPH 2038929 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2038929 (vertex names):
+[1] COPZ2--PYGO1  COPZ2--GXYLT2 PYGO1--GXYLT2
+
+[[228]]
+IGRAPH 2038b9a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2038b9a (vertex names):
+[1] COPZ2--PYGO1           COPZ2--ENSG00000186310 PYGO1--ENSG00000186310
+
+[[229]]
+IGRAPH 2038b9a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2038b9a (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --PYGO1  DPYSL3--PYGO1 
+
+[[230]]
+IGRAPH 2038e0b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2038e0b (vertex names):
+[1] COPZ2--PYGO1  COPZ2--EFEMP2 PYGO1--EFEMP2
+
+[[231]]
+IGRAPH 2038e0b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2038e0b (vertex names):
+[1] COPZ2--MPDZ  COPZ2--PYGO1 MPDZ --PYGO1
+
+[[232]]
+IGRAPH 203907c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203907c (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --PYGO1  PLXDC2--PYGO1 
+
+[[233]]
+IGRAPH 203907c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203907c (vertex names):
+[1] COPZ2--FEZ1  COPZ2--PYGO1 FEZ1 --PYGO1
+
+[[234]]
+IGRAPH 203907c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203907c (vertex names):
+[1] COPZ2--DDR2  COPZ2--PYGO1 DDR2 --PYGO1
+
+[[235]]
+IGRAPH 20392ed UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20392ed (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --PYGO1   HSPA12A--PYGO1  
+
+[[236]]
+IGRAPH 20392ed UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20392ed (vertex names):
+[1] COPZ2--PYGO1 COPZ2--CHSY3 PYGO1--CHSY3
+
+[[237]]
+IGRAPH 203955e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203955e (vertex names):
+[1] COPZ2--PYGO1 COPZ2--BNC2  PYGO1--BNC2 
+
+[[238]]
+IGRAPH 203955e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203955e (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --PYGO1  COL6A2--PYGO1 
+
+[[239]]
+IGRAPH 20397d0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20397d0 (vertex names):
+[1] COPZ2--PYGO1 COPZ2--NDN   PYGO1--NDN  
+
+[[240]]
+IGRAPH 20397d0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20397d0 (vertex names):
+[1] COPZ2--PALLD COPZ2--PYGO1 PALLD--PYGO1
+
+[[241]]
+IGRAPH 20397d0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20397d0 (vertex names):
+[1] COPZ2--PYGO1  COPZ2--KIRREL PYGO1--KIRREL
+
+[[242]]
+IGRAPH 2039a41 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2039a41 (vertex names):
+[1] COPZ2--FSTL1 COPZ2--PYGO1 FSTL1--PYGO1
+
+[[243]]
+IGRAPH 2039a41 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2039a41 (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --PYGO1  COL3A1--PYGO1 
+
+[[244]]
+IGRAPH 2039a41 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2039a41 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--ZFPM2 SYDE1--ZFPM2
+
+[[245]]
+IGRAPH 2039cb2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2039cb2 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --ZFPM2  GLT8D2--ZFPM2 
+
+[[246]]
+IGRAPH 2039cb2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2039cb2 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --ZFPM2   RASGRF2--ZFPM2  
+
+[[247]]
+IGRAPH 2039f23 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2039f23 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --ZFPM2  COL8A1--ZFPM2 
+
+[[248]]
+IGRAPH 2039f23 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2039f23 (vertex names):
+[1] COPZ2--ZFPM2 COPZ2--PRKD1 ZFPM2--PRKD1
+
+[[249]]
+IGRAPH 203a194 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a194 (vertex names):
+[1] COPZ2--ZFPM2  COPZ2--GXYLT2 ZFPM2--GXYLT2
+
+[[250]]
+IGRAPH 203a194 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a194 (vertex names):
+[1] COPZ2--ZFPM2  COPZ2--KIRREL ZFPM2--KIRREL
+
+[[251]]
+IGRAPH 203a194 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a194 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --ZFPM2  COL6A2--ZFPM2 
+
+[[252]]
+IGRAPH 203a405 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a405 (vertex names):
+[1] COPZ2--ZFPM2  COPZ2--EFEMP2 ZFPM2--EFEMP2
+
+[[253]]
+IGRAPH 203a405 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a405 (vertex names):
+[1] COPZ2--MPDZ  COPZ2--ZFPM2 MPDZ --ZFPM2
+
+[[254]]
+IGRAPH 203a405 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a405 (vertex names):
+[1] COPZ2--ZFPM2 COPZ2--BNC2  ZFPM2--BNC2 
+
+[[255]]
+IGRAPH 203a676 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a676 (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --ZFPM2   HSPA12A--ZFPM2  
+
+[[256]]
+IGRAPH 203a676 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a676 (vertex names):
+[1] COPZ2--FBN1   COPZ2--COL3A1 FBN1 --COL3A1
+
+[[257]]
+IGRAPH 203a8e7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a8e7 (vertex names):
+[1] COPZ2--SYDE1  COPZ2--COL3A1 SYDE1--COL3A1
+
+[[258]]
+IGRAPH 203a8e7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a8e7 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --COL3A1 GLT8D2--COL3A1
+
+[[259]]
+IGRAPH 203a8e7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203a8e7 (vertex names):
+[1] COPZ2--ACTA2  COPZ2--COL3A1 ACTA2--COL3A1
+
+[[260]]
+IGRAPH 203ab58 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203ab58 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --COL3A1 COL8A1--COL3A1
+
+[[261]]
+IGRAPH 203adc9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203adc9 (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --PRKD1  COL3A1--PRKD1 
+
+[[262]]
+IGRAPH 203adc9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203adc9 (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --GXYLT2 COL3A1--GXYLT2
+
+[[263]]
+IGRAPH 203b03b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203b03b (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --KIRREL COL3A1--KIRREL
+
+[[264]]
+IGRAPH 203b51d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203b51d (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --COL3A1 COL6A2--COL3A1
+
+[[265]]
+IGRAPH 203b78e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203b78e (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --EFEMP2 COL3A1--EFEMP2
+
+[[266]]
+IGRAPH 203b9ff UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203b9ff (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --PYGO1  COL3A1--PYGO1 
+
+[[267]]
+IGRAPH 203b9ff UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203b9ff (vertex names):
+[1] COPZ2--SPARC  COPZ2--COL3A1 SPARC--COL3A1
+
+[[268]]
+IGRAPH 203b9ff UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203b9ff (vertex names):
+[1] COPZ2--DDR2   COPZ2--COL3A1 DDR2 --COL3A1
+
+[[269]]
+IGRAPH 203bc70 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203bc70 (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --CHSY3  COL3A1--CHSY3 
+
+[[270]]
+IGRAPH 203bc70 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203bc70 (vertex names):
+[1] COPZ2--FEZ1   COPZ2--COL3A1 FEZ1 --COL3A1
+
+[[271]]
+IGRAPH 203bee1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203bee1 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --COL3A1 PLXDC2--COL3A1
+
+[[272]]
+IGRAPH 203bee1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203bee1 (vertex names):
+[1] COPZ2--FNDC1  COPZ2--COL3A1 FNDC1--COL3A1
+
+[[273]]
+IGRAPH 203c152 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203c152 (vertex names):
+[1] COPZ2--HTRA1  COPZ2--COL3A1 HTRA1--COL3A1
+
+[[274]]
+IGRAPH 203c152 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203c152 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --COL3A1 DPYSL3--COL3A1
+
+[[275]]
+IGRAPH 203c152 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203c152 (vertex names):
+[1] COPZ2--FSTL1  COPZ2--COL3A1 FSTL1--COL3A1
+
+[[276]]
+IGRAPH 203c3c3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203c3c3 (vertex names):
+[1] COPZ2--LAMA4  COPZ2--COL3A1 LAMA4--COL3A1
+
+[[277]]
+IGRAPH 203c3c3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203c3c3 (vertex names):
+[1] COPZ2 --COL3A1 COPZ2 --OLFML1 COL3A1--OLFML1
+
+[[278]]
+IGRAPH 203c634 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203c634 (vertex names):
+[1] COPZ2--CDH11  COPZ2--COL3A1 CDH11--COL3A1
+
+[[279]]
+IGRAPH 203c634 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203c634 (vertex names):
+[1] COPZ2 --CERCAM COPZ2 --COL3A1 CERCAM--COL3A1
+
+[[280]]
+IGRAPH 203c634 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203c634 (vertex names):
+[1] COPZ2--ISLR   COPZ2--COL3A1 ISLR --COL3A1
+
+[[281]]
+IGRAPH 203c8a5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203c8a5 (vertex names):
+[1] COPZ2--EDNRA  COPZ2--COL3A1 EDNRA--COL3A1
+
+[[282]]
+IGRAPH 203c8a5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203c8a5 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --COL3A1 COL1A2--COL3A1
+
+[[283]]
+IGRAPH 203cb16 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203cb16 (vertex names):
+[1] COPZ2--THY1   COPZ2--COL3A1 THY1 --COL3A1
+
+[[284]]
+IGRAPH 203cb16 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203cb16 (vertex names):
+[1] COPZ2--THY1   COPZ2--CERCAM THY1 --CERCAM
+
+[[285]]
+IGRAPH 203cb16 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203cb16 (vertex names):
+[1] COPZ2--FBN1   COPZ2--CERCAM FBN1 --CERCAM
+
+[[286]]
+IGRAPH 203cd87 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203cd87 (vertex names):
+[1] COPZ2--SYDE1  COPZ2--CERCAM SYDE1--CERCAM
+
+[[287]]
+IGRAPH 203cd87 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203cd87 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --CERCAM  RASGRF2--CERCAM 
+
+[[288]]
+IGRAPH 203cd87 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203cd87 (vertex names):
+[1] COPZ2   --PRICKLE1 COPZ2   --CERCAM   PRICKLE1--CERCAM  
+
+[[289]]
+IGRAPH 203cff8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203cff8 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --CERCAM COL8A1--CERCAM
+
+[[290]]
+IGRAPH 203cff8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203cff8 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --CERCAM COL1A2--CERCAM
+
+[[291]]
+IGRAPH 203d269 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203d269 (vertex names):
+[1] COPZ2 --CERCAM COPZ2 --GXYLT2 CERCAM--GXYLT2
+
+[[292]]
+IGRAPH 203d269 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203d269 (vertex names):
+[1] COPZ2 --CERCAM COPZ2 --KIRREL CERCAM--KIRREL
+
+[[293]]
+IGRAPH 203d4da UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203d4da (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --CERCAM COL6A2--CERCAM
+
+[[294]]
+IGRAPH 203d74b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203d74b (vertex names):
+[1] COPZ2 --CERCAM COPZ2 --EFEMP2 CERCAM--EFEMP2
+
+[[295]]
+IGRAPH 203d74b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203d74b (vertex names):
+[1] COPZ2--EDNRA  COPZ2--CERCAM EDNRA--CERCAM
+
+[[296]]
+IGRAPH 203d9bc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203d9bc (vertex names):
+[1] COPZ2--SPARC  COPZ2--CERCAM SPARC--CERCAM
+
+[[297]]
+IGRAPH 203d9bc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203d9bc (vertex names):
+[1] COPZ2 --CERCAM COPZ2 --COL3A1 CERCAM--COL3A1
+
+[[298]]
+IGRAPH 203dc2d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203dc2d (vertex names):
+[1] COPZ2--CDH11  COPZ2--CERCAM CDH11--CERCAM
+
+[[299]]
+IGRAPH 203dc2d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203dc2d (vertex names):
+[1] COPZ2--LAMA4  COPZ2--CERCAM LAMA4--CERCAM
+
+[[300]]
+IGRAPH 203dc2d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203dc2d (vertex names):
+[1] COPZ2--FSTL1  COPZ2--CERCAM FSTL1--CERCAM
+
+[[301]]
+IGRAPH 203de9e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203de9e (vertex names):
+[1] COPZ2--FNDC1  COPZ2--CERCAM FNDC1--CERCAM
+
+[[302]]
+IGRAPH 203de9e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203de9e (vertex names):
+[1] COPZ2--HTRA1  COPZ2--CERCAM HTRA1--CERCAM
+
+[[303]]
+IGRAPH 203e110 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e110 (vertex names):
+[1] COPZ2--HTRA1 COPZ2--FBN1  HTRA1--FBN1 
+
+[[304]]
+IGRAPH 203e110 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e110 (vertex names):
+[1] COPZ2--THY1 COPZ2--FBN1 THY1 --FBN1
+
+[[305]]
+IGRAPH 203e110 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e110 (vertex names):
+[1] COPZ2--FBN1   COPZ2--CERCAM FBN1 --CERCAM
+
+[[306]]
+IGRAPH 203e381 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e381 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--FBN1  SYDE1--FBN1 
+
+[[307]]
+IGRAPH 203e381 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e381 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --FBN1    RASGRF2--FBN1   
+
+[[308]]
+IGRAPH 203e5f2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e5f2 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --FBN1   GLT8D2--FBN1  
+
+[[309]]
+IGRAPH 203e5f2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e5f2 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --FBN1   COL8A1--FBN1  
+
+[[310]]
+IGRAPH 203e5f2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e5f2 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --FBN1   COL1A2--FBN1  
+
+[[311]]
+IGRAPH 203e863 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e863 (vertex names):
+[1] COPZ2--FBN1   COPZ2--GXYLT2 FBN1 --GXYLT2
+
+[[312]]
+IGRAPH 203e863 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e863 (vertex names):
+[1] COPZ2--FBN1  COPZ2--PRKD1 FBN1 --PRKD1
+
+[[313]]
+IGRAPH 203e863 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203e863 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --FBN1   COL6A2--FBN1  
+
+[[314]]
+IGRAPH 203ead4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203ead4 (vertex names):
+[1] COPZ2--FBN1   COPZ2--EFEMP2 FBN1 --EFEMP2
+
+[[315]]
+IGRAPH 203ead4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203ead4 (vertex names):
+[1] COPZ2--EDNRA COPZ2--FBN1  EDNRA--FBN1 
+
+[[316]]
+IGRAPH 203ead4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203ead4 (vertex names):
+[1] COPZ2--SPARC COPZ2--FBN1  SPARC--FBN1 
+
+[[317]]
+IGRAPH 203ed45 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203ed45 (vertex names):
+[1] COPZ2--FBN1   COPZ2--COL3A1 FBN1 --COL3A1
+
+[[318]]
+IGRAPH 203ed45 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203ed45 (vertex names):
+[1] COPZ2--CDH11 COPZ2--FBN1  CDH11--FBN1 
+
+[[319]]
+IGRAPH 203efb6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203efb6 (vertex names):
+[1] COPZ2--LAMA4 COPZ2--FBN1  LAMA4--FBN1 
+
+[[320]]
+IGRAPH 203efb6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203efb6 (vertex names):
+[1] COPZ2--FSTL1 COPZ2--FBN1  FSTL1--FBN1 
+
+[[321]]
+IGRAPH 203efb6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203efb6 (vertex names):
+[1] COPZ2--FNDC1 COPZ2--FBN1  FNDC1--FBN1 
+
+[[322]]
+IGRAPH 203f227 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f227 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --FBN1   DPYSL3--FBN1  
+
+[[323]]
+IGRAPH 203f227 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f227 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --FBN1   PLXDC2--FBN1  
+
+[[324]]
+IGRAPH 203f227 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f227 (vertex names):
+[1] COPZ2--FBN1   COPZ2--OLFML1 FBN1 --OLFML1
+
+[[325]]
+IGRAPH 203f498 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f498 (vertex names):
+[1] COPZ2--ISLR COPZ2--FBN1 ISLR --FBN1
+
+[[326]]
+IGRAPH 203f498 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f498 (vertex names):
+[1] COPZ2--FBN1  COPZ2--CHSY3 FBN1 --CHSY3
+
+[[327]]
+IGRAPH 203f709 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f709 (vertex names):
+[1] COPZ2--HTRA1 COPZ2--CHSY3 HTRA1--CHSY3
+
+[[328]]
+IGRAPH 203f709 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f709 (vertex names):
+[1] COPZ2--HTRA1 COPZ2--FBN1  HTRA1--FBN1 
+
+[[329]]
+IGRAPH 203f709 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f709 (vertex names):
+[1] COPZ2--THY1  COPZ2--HTRA1 THY1 --HTRA1
+
+[[330]]
+IGRAPH 203f97a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f97a (vertex names):
+[1] COPZ2--HTRA1  COPZ2--CERCAM HTRA1--CERCAM
+
+[[331]]
+IGRAPH 203f97a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f97a (vertex names):
+[1] COPZ2--ACTA2 COPZ2--HTRA1 ACTA2--HTRA1
+
+[[332]]
+IGRAPH 203f97b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203f97b (vertex names):
+[1] COPZ2--CDH11 COPZ2--HTRA1 CDH11--HTRA1
+
+[[333]]
+IGRAPH 203fbeb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203fbeb (vertex names):
+[1] COPZ2--HTRA1  COPZ2--COL3A1 HTRA1--COL3A1
+
+[[334]]
+IGRAPH 203fbeb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203fbeb (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --HTRA1  COL8A1--HTRA1 
+
+[[335]]
+IGRAPH 203fe5c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 203fe5c (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --HTRA1  COL1A2--HTRA1 
+
+[[336]]
+IGRAPH 20400cd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20400cd (vertex names):
+[1] COPZ2--SPARC COPZ2--HTRA1 SPARC--HTRA1
+
+[[337]]
+IGRAPH 20400cd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20400cd (vertex names):
+[1] COPZ2--SYDE1   COPZ2--HSPA12A SYDE1--HSPA12A
+
+[[338]]
+IGRAPH 204033e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204033e (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --KIRREL  HSPA12A--KIRREL 
+
+[[339]]
+IGRAPH 20405af UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20405af (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --ZFPM2   HSPA12A--ZFPM2  
+
+[[340]]
+IGRAPH 20405af UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20405af (vertex names):
+[1] COPZ2--MPDZ    COPZ2--HSPA12A MPDZ --HSPA12A
+
+[[341]]
+IGRAPH 2040820 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2040820 (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --NDN     HSPA12A--NDN    
+
+[[342]]
+IGRAPH 2040820 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2040820 (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --PYGO1   HSPA12A--PYGO1  
+
+[[343]]
+IGRAPH 2040a91 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2040a91 (vertex names):
+[1] COPZ2 --PLXDC2  COPZ2 --HSPA12A PLXDC2--HSPA12A
+
+[[344]]
+IGRAPH 2040a91 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2040a91 (vertex names):
+[1] COPZ2--FSTL1   COPZ2--HSPA12A FSTL1--HSPA12A
+
+[[345]]
+IGRAPH 2040d02 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2040d02 (vertex names):
+[1] COPZ2 --GLT8D2  COPZ2 --HSPA12A GLT8D2--HSPA12A
+
+[[346]]
+IGRAPH 2040d02 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2040d02 (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --GXYLT2  HSPA12A--GXYLT2 
+
+[[347]]
+IGRAPH 2040d03 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2040d03 (vertex names):
+[1] COPZ2 --COL6A2  COPZ2 --HSPA12A COL6A2--HSPA12A
+
+[[348]]
+IGRAPH 2040f73 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2040f73 (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --EFEMP2  HSPA12A--EFEMP2 
+
+[[349]]
+IGRAPH 2040f73 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2040f73 (vertex names):
+[1] COPZ2  --HSPA12A COPZ2  --PRKD1   HSPA12A--PRKD1  
+
+[[350]]
+IGRAPH 20411e5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20411e5 (vertex names):
+[1] COPZ2--SPARC COPZ2--FNDC1 SPARC--FNDC1
+
+[[351]]
+IGRAPH 20411e5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20411e5 (vertex names):
+[1] COPZ2--FNDC1 COPZ2--FBN1  FNDC1--FBN1 
+
+[[352]]
+IGRAPH 20411e5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20411e5 (vertex names):
+[1] COPZ2--FNDC1  COPZ2--CERCAM FNDC1--CERCAM
+
+[[353]]
+IGRAPH 2041456 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2041456 (vertex names):
+[1] COPZ2--CDH11 COPZ2--FNDC1 CDH11--FNDC1
+
+[[354]]
+IGRAPH 2041456 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2041456 (vertex names):
+[1] COPZ2--ISLR  COPZ2--FNDC1 ISLR --FNDC1
+
+[[355]]
+IGRAPH 20416c7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20416c7 (vertex names):
+[1] COPZ2--FNDC1  COPZ2--COL3A1 FNDC1--COL3A1
+
+[[356]]
+IGRAPH 20416c7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20416c7 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --FNDC1  COL8A1--FNDC1 
+
+[[357]]
+IGRAPH 20416c7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20416c7 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --FNDC1  COL1A2--FNDC1 
+
+[[358]]
+IGRAPH 2041938 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2041938 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --FNDC1  COL6A2--FNDC1 
+
+[[359]]
+IGRAPH 2041938 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2041938 (vertex names):
+[1] COPZ2--FNDC1  COPZ2--GXYLT2 FNDC1--GXYLT2
+
+[[360]]
+IGRAPH 2041938 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2041938 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --GXYLT2 COL1A2--GXYLT2
+
+[[361]]
+IGRAPH 2041ba9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2041ba9 (vertex names):
+[1] COPZ2--SPARC  COPZ2--COL1A2 SPARC--COL1A2
+
+[[362]]
+IGRAPH 2041ba9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2041ba9 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --FBN1   COL1A2--FBN1  
+
+[[363]]
+IGRAPH 2041e1a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2041e1a (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --CERCAM COL1A2--CERCAM
+
+[[364]]
+IGRAPH 2041e1a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2041e1a (vertex names):
+[1] COPZ2--CDH11  COPZ2--COL1A2 CDH11--COL1A2
+
+[[365]]
+IGRAPH 2041e1a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2041e1a (vertex names):
+[1] COPZ2--ISLR   COPZ2--COL1A2 ISLR --COL1A2
+
+[[366]]
+IGRAPH 204208b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204208b (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --COL3A1 COL1A2--COL3A1
+
+[[367]]
+IGRAPH 204208b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204208b (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --COL1A2 COL8A1--COL1A2
+
+[[368]]
+IGRAPH 204208b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204208b (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --FNDC1  COL1A2--FNDC1 
+
+[[369]]
+IGRAPH 20422fc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20422fc (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --COL1A2 COL6A2--COL1A2
+
+[[370]]
+IGRAPH 20422fc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20422fc (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --PRKD1  COL1A2--PRKD1 
+
+[[371]]
+IGRAPH 204256d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204256d (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --EFEMP2 COL1A2--EFEMP2
+
+[[372]]
+IGRAPH 20427de UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20427de (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --CHSY3  COL1A2--CHSY3 
+
+[[373]]
+IGRAPH 20427de UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20427de (vertex names):
+[1] COPZ2--FSTL1  COPZ2--COL1A2 FSTL1--COL1A2
+
+[[374]]
+IGRAPH 2042a50 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2042a50 (vertex names):
+[1] COPZ2--LAMA4  COPZ2--COL1A2 LAMA4--COL1A2
+
+[[375]]
+IGRAPH 2042cc1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2042cc1 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --HTRA1  COL1A2--HTRA1 
+
+[[376]]
+IGRAPH 2042f32 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2042f32 (vertex names):
+[1] COPZ2--THY1   COPZ2--COL1A2 THY1 --COL1A2
+
+[[377]]
+IGRAPH 20431a3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20431a3 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --COL1A2 DPYSL3--COL1A2
+
+[[378]]
+IGRAPH 20431a3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20431a3 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --COL1A2  RASGRF2--COL1A2 
+
+[[379]]
+IGRAPH 20431a3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20431a3 (vertex names):
+[1] COPZ2 --COL1A2 COPZ2 --OLFML1 COL1A2--OLFML1
+
+[[380]]
+IGRAPH 2043414 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2043414 (vertex names):
+[1] COPZ2--FSTL1  COPZ2--OLFML1 FSTL1--OLFML1
+
+[[381]]
+IGRAPH 2043414 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2043414 (vertex names):
+[1] COPZ2--FSTL1  COPZ2--GXYLT2 FSTL1--GXYLT2
+
+[[382]]
+IGRAPH 2043414 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2043414 (vertex names):
+[1] COPZ2--SPARC COPZ2--FSTL1 SPARC--FSTL1
+
+[[383]]
+IGRAPH 2043685 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2043685 (vertex names):
+[1] COPZ2--FSTL1 COPZ2--FBN1  FSTL1--FBN1 
+
+[[384]]
+IGRAPH 2043685 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2043685 (vertex names):
+[1] COPZ2--FSTL1  COPZ2--CERCAM FSTL1--CERCAM
+
+[[385]]
+IGRAPH 20438f6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20438f6 (vertex names):
+[1] COPZ2--CDH11 COPZ2--FSTL1 CDH11--FSTL1
+
+[[386]]
+IGRAPH 20438f6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20438f6 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --FSTL1  GLT8D2--FSTL1 
+
+[[387]]
+IGRAPH 20438f6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20438f6 (vertex names):
+[1] COPZ2--FSTL1  COPZ2--COL3A1 FSTL1--COL3A1
+
+[[388]]
+IGRAPH 2043b67 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2043b67 (vertex names):
+[1] COPZ2--EDNRA COPZ2--FSTL1 EDNRA--FSTL1
+
+[[389]]
+IGRAPH 2043b67 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2043b67 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--FSTL1 SYDE1--FSTL1
+
+[[390]]
+IGRAPH 2043b67 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2043b67 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --FSTL1  COL6A2--FSTL1 
+
+[[391]]
+IGRAPH 2043dd8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2043dd8 (vertex names):
+[1] COPZ2--FSTL1 COPZ2--PRKD1 FSTL1--PRKD1
+
+[[392]]
+IGRAPH 2043dd8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2043dd8 (vertex names):
+[1] COPZ2--FSTL1  COPZ2--EFEMP2 FSTL1--EFEMP2
+
+[[393]]
+IGRAPH 2044049 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2044049 (vertex names):
+[1] COPZ2--FSTL1 COPZ2--CHSY3 FSTL1--CHSY3
+
+[[394]]
+IGRAPH 2044049 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2044049 (vertex names):
+[1] COPZ2--FSTL1  COPZ2--COL1A2 FSTL1--COL1A2
+
+[[395]]
+IGRAPH 2044049 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2044049 (vertex names):
+[1] COPZ2--LAMA4 COPZ2--FSTL1 LAMA4--FSTL1
+
+[[396]]
+IGRAPH 20442ba UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20442ba (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --FSTL1  PLXDC2--FSTL1 
+
+[[397]]
+IGRAPH 20442ba UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20442ba (vertex names):
+[1] COPZ2--THY1  COPZ2--FSTL1 THY1 --FSTL1
+
+[[398]]
+IGRAPH 20442ba UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20442ba (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --FSTL1  DPYSL3--FSTL1 
+
+[[399]]
+IGRAPH 204452b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204452b (vertex names):
+[1] COPZ2--FSTL1  COPZ2--KIRREL FSTL1--KIRREL
+
+[[400]]
+IGRAPH 204452b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204452b (vertex names):
+[1] COPZ2--DDR2  COPZ2--FSTL1 DDR2 --FSTL1
+
+[[401]]
+IGRAPH 204479c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204479c (vertex names):
+[1] COPZ2--MPDZ  COPZ2--FSTL1 MPDZ --FSTL1
+
+[[402]]
+IGRAPH 204479c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204479c (vertex names):
+[1] COPZ2--FEZ1  COPZ2--FSTL1 FEZ1 --FSTL1
+
+[[403]]
+IGRAPH 204479c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204479c (vertex names):
+[1] COPZ2--FSTL1   COPZ2--HSPA12A FSTL1--HSPA12A
+
+[[404]]
+IGRAPH 2044a0d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2044a0d (vertex names):
+[1] COPZ2--FSTL1 COPZ2--PYGO1 FSTL1--PYGO1
+
+[[405]]
+IGRAPH 2044c7e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2044c7e (vertex names):
+[1] COPZ2--FSTL1 COPZ2--NDN   FSTL1--NDN  
+
+[[406]]
+IGRAPH 2044eef UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2044eef (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --FSTL1    C14orf37--FSTL1   
+
+[[407]]
+IGRAPH 2045642 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2045642 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --FSTL1  COX7A1--FSTL1 
+
+[[408]]
+IGRAPH 20458b3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20458b3 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--FSTL1 ACTA2--FSTL1
+
+[[409]]
+IGRAPH 20458b3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20458b3 (vertex names):
+[1] COPZ2--FSTL1 COPZ2--BNC2  FSTL1--BNC2 
+
+[[410]]
+IGRAPH 2045b25 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2045b25 (vertex names):
+[1] COPZ2--DDR2 COPZ2--BNC2 DDR2 --BNC2
+
+[[411]]
+IGRAPH 2045b25 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2045b25 (vertex names):
+[1] COPZ2--DDR2   COPZ2--OLFML1 DDR2 --OLFML1
+
+[[412]]
+IGRAPH 2045d96 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2045d96 (vertex names):
+[1] COPZ2--DDR2   COPZ2--GXYLT2 DDR2 --GXYLT2
+
+[[413]]
+IGRAPH 2045d96 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2045d96 (vertex names):
+[1] COPZ2--DDR2  COPZ2--MXRA7 DDR2 --MXRA7
+
+[[414]]
+IGRAPH 2045d96 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2045d96 (vertex names):
+[1] COPZ2--PALLD COPZ2--DDR2  PALLD--DDR2 
+
+[[415]]
+IGRAPH 2046007 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2046007 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--DDR2  ACTA2--DDR2 
+
+[[416]]
+IGRAPH 2046007 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2046007 (vertex names):
+[1] COPZ2--CDH11 COPZ2--DDR2  CDH11--DDR2 
+
+[[417]]
+IGRAPH 2046278 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2046278 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --DDR2   GLT8D2--DDR2  
+
+[[418]]
+IGRAPH 2046278 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2046278 (vertex names):
+[1] COPZ2--DDR2   COPZ2--COL3A1 DDR2 --COL3A1
+
+[[419]]
+IGRAPH 2046278 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2046278 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --DDR2   COX7A1--DDR2  
+
+[[420]]
+IGRAPH 20464e9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20464e9 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --DDR2     C14orf37--DDR2    
+
+[[421]]
+IGRAPH 20464e9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20464e9 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --DDR2   COL6A2--DDR2  
+
+[[422]]
+IGRAPH 20464e9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20464e9 (vertex names):
+[1] COPZ2--DDR2  COPZ2--PRKD1 DDR2 --PRKD1
+
+[[423]]
+IGRAPH 204675a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204675a (vertex names):
+[1] COPZ2--DDR2   COPZ2--EFEMP2 DDR2 --EFEMP2
+
+[[424]]
+IGRAPH 204675a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204675a (vertex names):
+[1] COPZ2--DDR2  COPZ2--CHSY3 DDR2 --CHSY3
+
+[[425]]
+IGRAPH 20469cb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20469cb (vertex names):
+[1] COPZ2--DDR2 COPZ2--NDN  DDR2 --NDN 
+
+[[426]]
+IGRAPH 20469cb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20469cb (vertex names):
+[1] COPZ2--LAMA4 COPZ2--DDR2  LAMA4--DDR2 
+
+[[427]]
+IGRAPH 20469cb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20469cb (vertex names):
+[1] COPZ2--DDR2  COPZ2--PYGO1 DDR2 --PYGO1
+
+[[428]]
+IGRAPH 2046c3c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2046c3c (vertex names):
+[1] COPZ2--THY1 COPZ2--DDR2 THY1 --DDR2
+
+[[429]]
+IGRAPH 2046c3c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2046c3c (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --DDR2   DPYSL3--DDR2  
+
+[[430]]
+IGRAPH 2046c3c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2046c3c (vertex names):
+[1] COPZ2--FEZ1 COPZ2--DDR2 FEZ1 --DDR2
+
+[[431]]
+IGRAPH 2046ead UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2046ead (vertex names):
+[1] COPZ2--DDR2  COPZ2--FSTL1 DDR2 --FSTL1
+
+[[432]]
+IGRAPH 2046ead UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2046ead (vertex names):
+[1] COPZ2--MPDZ COPZ2--DDR2 MPDZ --DDR2
+
+[[433]]
+IGRAPH 204711e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204711e (vertex names):
+[1] COPZ2--MPDZ   COPZ2--COX7A1 MPDZ --COX7A1
+
+[[434]]
+IGRAPH 204711e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204711e (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --BNC2   COX7A1--BNC2  
+
+[[435]]
+IGRAPH 204711e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204711e (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --FSTL1  COX7A1--FSTL1 
+
+[[436]]
+IGRAPH 2047390 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2047390 (vertex names):
+[1] COPZ2--FEZ1   COPZ2--COX7A1 FEZ1 --COX7A1
+
+[[437]]
+IGRAPH 2047390 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2047390 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --MXRA7  COX7A1--MXRA7 
+
+[[438]]
+IGRAPH 2047390 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2047390 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --COX7A1 DPYSL3--COX7A1
+
+[[439]]
+IGRAPH 2047601 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2047601 (vertex names):
+[1] COPZ2--ACTA2  COPZ2--COX7A1 ACTA2--COX7A1
+
+[[440]]
+IGRAPH 2047601 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2047601 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --PYGO1  COX7A1--PYGO1 
+
+[[441]]
+IGRAPH 2047872 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2047872 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --NDN    COX7A1--NDN   
+
+[[442]]
+IGRAPH 2047ae3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2047ae3 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --PRKD1  COX7A1--PRKD1 
+
+[[443]]
+IGRAPH 2047d54 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2047d54 (vertex names):
+[1] COPZ2 --COX7A1 COPZ2 --DDR2   COX7A1--DDR2  
+
+[[444]]
+IGRAPH 2047fc5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2047fc5 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --COX7A1   C14orf37--COX7A1  
+
+[[445]]
+IGRAPH 2048236 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048236 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --COX7A1 COL6A2--COX7A1
+
+[[446]]
+IGRAPH 20484a7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20484a7 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --THY1   COL6A2--THY1  
+
+[[447]]
+IGRAPH 20484a7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20484a7 (vertex names):
+[1] COPZ2--THY1   COPZ2--OLFML1 THY1 --OLFML1
+
+[[448]]
+IGRAPH 20484a7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20484a7 (vertex names):
+[1] COPZ2--SPARC COPZ2--THY1  SPARC--THY1 
+
+[[449]]
+IGRAPH 2048718 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048718 (vertex names):
+[1] COPZ2--THY1  COPZ2--FSTL1 THY1 --FSTL1
+
+[[450]]
+IGRAPH 2048718 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048718 (vertex names):
+[1] COPZ2--FEZ1 COPZ2--THY1 FEZ1 --THY1
+
+[[451]]
+IGRAPH 2048718 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048718 (vertex names):
+[1] COPZ2--THY1  COPZ2--HTRA1 THY1 --HTRA1
+
+[[452]]
+IGRAPH 2048989 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048989 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --THY1   DPYSL3--THY1  
+
+[[453]]
+IGRAPH 2048989 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048989 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--THY1  ACTA2--THY1 
+
+[[454]]
+IGRAPH 2048bfa UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048bfa (vertex names):
+[1] COPZ2--THY1 COPZ2--FBN1 THY1 --FBN1
+
+[[455]]
+IGRAPH 2048bfa UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048bfa (vertex names):
+[1] COPZ2--THY1   COPZ2--CERCAM THY1 --CERCAM
+
+[[456]]
+IGRAPH 2048bfa UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048bfa (vertex names):
+[1] COPZ2--SYDE1 COPZ2--THY1  SYDE1--THY1 
+
+[[457]]
+IGRAPH 2048e6b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048e6b (vertex names):
+[1] COPZ2--THY1 COPZ2--DDR2 THY1 --DDR2
+
+[[458]]
+IGRAPH 2048e6b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048e6b (vertex names):
+[1] COPZ2--THY1   COPZ2--COL1A2 THY1 --COL1A2
+
+[[459]]
+IGRAPH 2048e6b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2048e6b (vertex names):
+[1] COPZ2--THY1   COPZ2--EFEMP2 THY1 --EFEMP2
+
+[[460]]
+IGRAPH 20490dc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20490dc (vertex names):
+[1] COPZ2--THY1  COPZ2--CHSY3 THY1 --CHSY3
+
+[[461]]
+IGRAPH 20490dc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20490dc (vertex names):
+[1] COPZ2--THY1   COPZ2--COL3A1 THY1 --COL3A1
+
+[[462]]
+IGRAPH 204934d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204934d (vertex names):
+[1] COPZ2--LAMA4 COPZ2--THY1  LAMA4--THY1 
+
+[[463]]
+IGRAPH 204934d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204934d (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --THY1   GLT8D2--THY1  
+
+[[464]]
+IGRAPH 20495be UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20495be (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --THY1   PLXDC2--THY1  
+
+[[465]]
+IGRAPH 20495be UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20495be (vertex names):
+[1] COPZ2--CDH11 COPZ2--THY1  CDH11--THY1 
+
+[[466]]
+IGRAPH 204982f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204982f (vertex names):
+[1] COPZ2--THY1   COPZ2--GXYLT2 THY1 --GXYLT2
+
+[[467]]
+IGRAPH 204982f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204982f (vertex names):
+[1] COPZ2--EDNRA COPZ2--NDN   EDNRA--NDN  
+
+[[468]]
+IGRAPH 204982f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204982f (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --EDNRA  COL6A2--EDNRA 
+
+[[469]]
+IGRAPH 2049aa0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2049aa0 (vertex names):
+[1] COPZ2--EDNRA  COPZ2--OLFML1 EDNRA--OLFML1
+
+[[470]]
+IGRAPH 2049aa0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2049aa0 (vertex names):
+[1] COPZ2--SPARC COPZ2--EDNRA SPARC--EDNRA
+
+[[471]]
+IGRAPH 2049aa0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2049aa0 (vertex names):
+[1] COPZ2--EDNRA COPZ2--FSTL1 EDNRA--FSTL1
+
+[[472]]
+IGRAPH 2049d11 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2049d11 (vertex names):
+[1] COPZ2--CDH11 COPZ2--EDNRA CDH11--EDNRA
+
+[[473]]
+IGRAPH 2049f82 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2049f82 (vertex names):
+[1] COPZ2--EDNRA  COPZ2--COL3A1 EDNRA--COL3A1
+
+[[474]]
+IGRAPH 204a1f3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204a1f3 (vertex names):
+[1] COPZ2--EDNRA COPZ2--CHSY3 EDNRA--CHSY3
+
+[[475]]
+IGRAPH 204a1f3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204a1f3 (vertex names):
+[1] COPZ2--EDNRA  COPZ2--EFEMP2 EDNRA--EFEMP2
+
+[[476]]
+IGRAPH 204a465 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204a465 (vertex names):
+[1] COPZ2--EDNRA COPZ2--FBN1  EDNRA--FBN1 
+
+[[477]]
+IGRAPH 204a465 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204a465 (vertex names):
+[1] COPZ2--EDNRA  COPZ2--CERCAM EDNRA--CERCAM
+
+[[478]]
+IGRAPH 204a6d6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204a6d6 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--EDNRA SYDE1--EDNRA
+
+[[479]]
+IGRAPH 204a6d6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204a6d6 (vertex names):
+[1] COPZ2--MPDZ COPZ2--FEZ1 MPDZ --FEZ1
+
+[[480]]
+IGRAPH 204a947 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204a947 (vertex names):
+[1] COPZ2--FEZ1 COPZ2--NDN  FEZ1 --NDN 
+
+[[481]]
+IGRAPH 204a947 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204a947 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --FEZ1   COL6A2--FEZ1  
+
+[[482]]
+IGRAPH 204abb8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204abb8 (vertex names):
+[1] COPZ2--FEZ1 COPZ2--BNC2 FEZ1 --BNC2
+
+[[483]]
+IGRAPH 204abb8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204abb8 (vertex names):
+[1] COPZ2--FEZ1  COPZ2--MXRA7 FEZ1 --MXRA7
+
+[[484]]
+IGRAPH 204abb8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204abb8 (vertex names):
+[1] COPZ2--FEZ1  COPZ2--FSTL1 FEZ1 --FSTL1
+
+[[485]]
+IGRAPH 204ae29 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204ae29 (vertex names):
+[1] COPZ2--FEZ1  COPZ2--PYGO1 FEZ1 --PYGO1
+
+[[486]]
+IGRAPH 204ae29 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204ae29 (vertex names):
+[1] COPZ2--FEZ1   COPZ2--COL3A1 FEZ1 --COL3A1
+
+[[487]]
+IGRAPH 204b09a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b09a (vertex names):
+[1] COPZ2--FEZ1  COPZ2--CHSY3 FEZ1 --CHSY3
+
+[[488]]
+IGRAPH 204b09a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b09a (vertex names):
+[1] COPZ2--FEZ1   COPZ2--EFEMP2 FEZ1 --EFEMP2
+
+[[489]]
+IGRAPH 204b09a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b09a (vertex names):
+[1] COPZ2--FEZ1  COPZ2--PRKD1 FEZ1 --PRKD1
+
+[[490]]
+IGRAPH 204b30b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b30b (vertex names):
+[1] COPZ2--FEZ1 COPZ2--THY1 FEZ1 --THY1
+
+[[491]]
+IGRAPH 204b30b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b30b (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --FEZ1     C14orf37--FEZ1    
+
+[[492]]
+IGRAPH 204b30b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b30b (vertex names):
+[1] COPZ2--FEZ1 COPZ2--DDR2 FEZ1 --DDR2
+
+[[493]]
+IGRAPH 204b57c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b57c (vertex names):
+[1] COPZ2--ACTA2 COPZ2--FEZ1  ACTA2--FEZ1 
+
+[[494]]
+IGRAPH 204b57c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b57c (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --FEZ1   DPYSL3--FEZ1  
+
+[[495]]
+IGRAPH 204b7ed UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b7ed (vertex names):
+[1] COPZ2--LAMA4 COPZ2--FEZ1  LAMA4--FEZ1 
+
+[[496]]
+IGRAPH 204b7ed UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b7ed (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --FEZ1   GLT8D2--FEZ1  
+
+[[497]]
+IGRAPH 204b7ed UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204b7ed (vertex names):
+[1] COPZ2--FEZ1   COPZ2--COX7A1 FEZ1 --COX7A1
+
+[[498]]
+IGRAPH 204ba5e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204ba5e (vertex names):
+[1] COPZ2--PALLD COPZ2--FEZ1  PALLD--FEZ1 
+
+[[499]]
+IGRAPH 204ba5e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204ba5e (vertex names):
+[1] COPZ2--FEZ1   COPZ2--KIRREL FEZ1 --KIRREL
+
+[[500]]
+IGRAPH 204bccf UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204bccf (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --GXYLT2 COL8A1--GXYLT2
+
+[[501]]
+IGRAPH 204bccf UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204bccf (vertex names):
+[1] COPZ2--SPARC  COPZ2--COL8A1 SPARC--COL8A1
+
+[[502]]
+IGRAPH 204bcd0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204bcd0 (vertex names):
+[1] COPZ2--CDH11  COPZ2--COL8A1 CDH11--COL8A1
+
+[[503]]
+IGRAPH 204bf40 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204bf40 (vertex names):
+[1] COPZ2--ISLR   COPZ2--COL8A1 ISLR --COL8A1
+
+[[504]]
+IGRAPH 204bf40 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204bf40 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --FNDC1  COL8A1--FNDC1 
+
+[[505]]
+IGRAPH 204bf41 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204bf41 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --FBN1   COL8A1--FBN1  
+
+[[506]]
+IGRAPH 204c1b1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204c1b1 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --COL8A1  RASGRF2--COL8A1 
+
+[[507]]
+IGRAPH 204c1b1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204c1b1 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --CERCAM COL8A1--CERCAM
+
+[[508]]
+IGRAPH 204c422 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204c422 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --COL3A1 COL8A1--COL3A1
+
+[[509]]
+IGRAPH 204c422 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204c422 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --ZFPM2  COL8A1--ZFPM2 
+
+[[510]]
+IGRAPH 204c423 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204c423 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --EFEMP2 COL8A1--EFEMP2
+
+[[511]]
+IGRAPH 204c693 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204c693 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --PRKD1  COL8A1--PRKD1 
+
+[[512]]
+IGRAPH 204c693 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204c693 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --COL1A2 COL8A1--COL1A2
+
+[[513]]
+IGRAPH 204c694 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204c694 (vertex names):
+[1] COPZ2 --COL8A1 COPZ2 --HTRA1  COL8A1--HTRA1 
+
+[[514]]
+IGRAPH 204c904 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204c904 (vertex names):
+[1] COPZ2--ACTA2  COPZ2--COL8A1 ACTA2--COL8A1
+
+[[515]]
+IGRAPH 204cb75 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204cb75 (vertex names):
+[1] COPZ2--ACTA2  COPZ2--COL6A2 ACTA2--COL6A2
+
+[[516]]
+IGRAPH 204cb75 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204cb75 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --GXYLT2 COL6A2--GXYLT2
+
+[[517]]
+IGRAPH 204d057 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204d057 (vertex names):
+[1] COPZ2--SPARC  COPZ2--COL6A2 SPARC--COL6A2
+
+[[518]]
+IGRAPH 204d2c8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204d2c8 (vertex names):
+[1] COPZ2--CDH11  COPZ2--COL6A2 CDH11--COL6A2
+
+[[519]]
+IGRAPH 204d2c8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204d2c8 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --KIRREL COL6A2--KIRREL
+
+[[520]]
+IGRAPH 204d53a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204d53a (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --FNDC1  COL6A2--FNDC1 
+
+[[521]]
+IGRAPH 204d53a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204d53a (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --FBN1   COL6A2--FBN1  
+
+[[522]]
+IGRAPH 204d53a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204d53a (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --COL6A2  RASGRF2--COL6A2 
+
+[[523]]
+IGRAPH 204d7ab UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204d7ab (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --CERCAM COL6A2--CERCAM
+
+[[524]]
+IGRAPH 204d7ab UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204d7ab (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --COL3A1 COL6A2--COL3A1
+
+[[525]]
+IGRAPH 204d7ab UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204d7ab (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --ZFPM2  COL6A2--ZFPM2 
+
+[[526]]
+IGRAPH 204da1c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204da1c (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --EFEMP2 COL6A2--EFEMP2
+
+[[527]]
+IGRAPH 204da1c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204da1c (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --PRKD1  COL6A2--PRKD1 
+
+[[528]]
+IGRAPH 204dc8d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204dc8d (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --COL1A2 COL6A2--COL1A2
+
+[[529]]
+IGRAPH 204dc8d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204dc8d (vertex names):
+[1] COPZ2--SYDE1  COPZ2--COL6A2 SYDE1--COL6A2
+
+[[530]]
+IGRAPH 204dc8d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204dc8d (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --COL6A2 DPYSL3--COL6A2
+
+[[531]]
+IGRAPH 204defe UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204defe (vertex names):
+[1] COPZ2--LAMA4  COPZ2--COL6A2 LAMA4--COL6A2
+
+[[532]]
+IGRAPH 204defe UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204defe (vertex names):
+[1] COPZ2--MPDZ   COPZ2--COL6A2 MPDZ --COL6A2
+
+[[533]]
+IGRAPH 204e16f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204e16f (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --COX7A1 COL6A2--COX7A1
+
+[[534]]
+IGRAPH 204e16f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204e16f (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --NDN    COL6A2--NDN   
+
+[[535]]
+IGRAPH 204e16f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204e16f (vertex names):
+[1] COPZ2 --COL6A2  COPZ2 --HSPA12A COL6A2--HSPA12A
+
+[[536]]
+IGRAPH 204e3e0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204e3e0 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --DDR2   COL6A2--DDR2  
+
+[[537]]
+IGRAPH 204e3e0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204e3e0 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --BNC2   COL6A2--BNC2  
+
+[[538]]
+IGRAPH 204e651 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204e651 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --FEZ1   COL6A2--FEZ1  
+
+[[539]]
+IGRAPH 204e651 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204e651 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --THY1   COL6A2--THY1  
+
+[[540]]
+IGRAPH 204e8c2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204e8c2 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --MXRA7  COL6A2--MXRA7 
+
+[[541]]
+IGRAPH 204e8c2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204e8c2 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --CHSY3  COL6A2--CHSY3 
+
+[[542]]
+IGRAPH 204e8c2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204e8c2 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --FSTL1  COL6A2--FSTL1 
+
+[[543]]
+IGRAPH 204eb33 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204eb33 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --EDNRA  COL6A2--EDNRA 
+
+[[544]]
+IGRAPH 204eb33 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204eb33 (vertex names):
+[1] COPZ2 --COL6A2 COPZ2 --PYGO1  COL6A2--PYGO1 
+
+[[545]]
+IGRAPH 204eda5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204eda5 (vertex names):
+[1] COPZ2--ISLR  COPZ2--CDH11 ISLR --CDH11
+
+[[546]]
+IGRAPH 204eda5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204eda5 (vertex names):
+[1] COPZ2--CDH11 COPZ2--HTRA1 CDH11--HTRA1
+
+[[547]]
+IGRAPH 204f016 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f016 (vertex names):
+[1] COPZ2--CDH11  COPZ2--GXYLT2 CDH11--GXYLT2
+
+[[548]]
+IGRAPH 204f016 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f016 (vertex names):
+[1] COPZ2--SPARC COPZ2--CDH11 SPARC--CDH11
+
+[[549]]
+IGRAPH 204f287 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f287 (vertex names):
+[1] COPZ2--CDH11  COPZ2--COL6A2 CDH11--COL6A2
+
+[[550]]
+IGRAPH 204f4f8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f4f8 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --CDH11  GLT8D2--CDH11 
+
+[[551]]
+IGRAPH 204f4f8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f4f8 (vertex names):
+[1] COPZ2--CDH11 COPZ2--FNDC1 CDH11--FNDC1
+
+[[552]]
+IGRAPH 204f4f8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f4f8 (vertex names):
+[1] COPZ2--CDH11 COPZ2--FBN1  CDH11--FBN1 
+
+[[553]]
+IGRAPH 204f769 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f769 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --CDH11   RASGRF2--CDH11  
+
+[[554]]
+IGRAPH 204f769 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f769 (vertex names):
+[1] COPZ2--CDH11  COPZ2--CERCAM CDH11--CERCAM
+
+[[555]]
+IGRAPH 204f769 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f769 (vertex names):
+[1] COPZ2--CDH11  COPZ2--COL3A1 CDH11--COL3A1
+
+[[556]]
+IGRAPH 204f9da UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f9da (vertex names):
+[1] COPZ2--CDH11  COPZ2--OLFML1 CDH11--OLFML1
+
+[[557]]
+IGRAPH 204f9da UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204f9da (vertex names):
+[1] COPZ2--CDH11  COPZ2--EFEMP2 CDH11--EFEMP2
+
+[[558]]
+IGRAPH 204fc4b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204fc4b (vertex names):
+[1] COPZ2--CDH11 COPZ2--PRKD1 CDH11--PRKD1
+
+[[559]]
+IGRAPH 204fc4b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204fc4b (vertex names):
+[1] COPZ2--CDH11  COPZ2--COL1A2 CDH11--COL1A2
+
+[[560]]
+IGRAPH 204febc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204febc (vertex names):
+[1] COPZ2--SYDE1 COPZ2--CDH11 SYDE1--CDH11
+
+[[561]]
+IGRAPH 204febc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204febc (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --CDH11  DPYSL3--CDH11 
+
+[[562]]
+IGRAPH 204febc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 204febc (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --CDH11  PLXDC2--CDH11 
+
+[[563]]
+IGRAPH 205012d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205012d (vertex names):
+[1] COPZ2--CDH11  COPZ2--COL8A1 CDH11--COL8A1
+
+[[564]]
+IGRAPH 205012d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205012d (vertex names):
+[1] COPZ2--CDH11 COPZ2--EDNRA CDH11--EDNRA
+
+[[565]]
+IGRAPH 205039e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205039e (vertex names):
+[1] COPZ2--CDH11 COPZ2--FSTL1 CDH11--FSTL1
+
+[[566]]
+IGRAPH 205039e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205039e (vertex names):
+[1] COPZ2--CDH11 COPZ2--CHSY3 CDH11--CHSY3
+
+[[567]]
+IGRAPH 205039e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205039e (vertex names):
+[1] COPZ2--CDH11 COPZ2--DDR2  CDH11--DDR2 
+
+[[568]]
+IGRAPH 205060f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205060f (vertex names):
+[1] COPZ2--CDH11 COPZ2--THY1  CDH11--THY1 
+
+[[569]]
+IGRAPH 205060f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205060f (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --PYGO1    C14orf37--PYGO1   
+
+[[570]]
+IGRAPH 205060f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205060f (vertex names):
+[1] COPZ2--ACTA2    COPZ2--C14orf37 ACTA2--C14orf37
+
+[[571]]
+IGRAPH 2050880 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2050880 (vertex names):
+[1] COPZ2--PALLD    COPZ2--C14orf37 PALLD--C14orf37
+
+[[572]]
+IGRAPH 2050880 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2050880 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --GXYLT2   C14orf37--GXYLT2  
+
+[[573]]
+IGRAPH 2050af1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2050af1 (vertex names):
+[1] COPZ2--MPDZ     COPZ2--C14orf37 MPDZ --C14orf37
+
+[[574]]
+IGRAPH 2050af1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2050af1 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --COX7A1   C14orf37--COX7A1  
+
+[[575]]
+IGRAPH 2050af1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2050af1 (vertex names):
+[1] COPZ2 --GLT8D2   COPZ2 --C14orf37 GLT8D2--C14orf37
+
+[[576]]
+IGRAPH 2050d62 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2050d62 (vertex names):
+[1] COPZ2   --C14orf37        COPZ2   --ENSG00000186310 C14orf37--ENSG00000186310
+
+[[577]]
+IGRAPH 2050d62 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2050d62 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --NDN      C14orf37--NDN     
+
+[[578]]
+IGRAPH 2050fd3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2050fd3 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --BNC2     C14orf37--BNC2    
+
+[[579]]
+IGRAPH 2050fd3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2050fd3 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --MXRA7    C14orf37--MXRA7   
+
+[[580]]
+IGRAPH 2050fd3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2050fd3 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --FEZ1     C14orf37--FEZ1    
+
+[[581]]
+IGRAPH 2051244 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2051244 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --OLFML1   C14orf37--OLFML1  
+
+[[582]]
+IGRAPH 2051244 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2051244 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --DDR2     C14orf37--DDR2    
+
+[[583]]
+IGRAPH 2051244 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2051244 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --PRKD1    C14orf37--PRKD1   
+
+[[584]]
+IGRAPH 20514b5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20514b5 (vertex names):
+[1] COPZ2   --C14orf37 COPZ2   --FSTL1    C14orf37--FSTL1   
+
+[[585]]
+IGRAPH 20514b5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20514b5 (vertex names):
+[1] COPZ2 --PLXDC2   COPZ2 --C14orf37 PLXDC2--C14orf37
+
+[[586]]
+IGRAPH 2051726 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2051726 (vertex names):
+[1] COPZ2 --DPYSL3   COPZ2 --C14orf37 DPYSL3--C14orf37
+
+[[587]]
+IGRAPH 2051726 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2051726 (vertex names):
+[1] COPZ2   --PRICKLE1 COPZ2   --CERCAM   PRICKLE1--CERCAM  
+
+[[588]]
+IGRAPH 2051726 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2051726 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --PALLD  DPYSL3--PALLD 
+
+[[589]]
+IGRAPH 2051e7a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2051e7a (vertex names):
+[1] COPZ2--PALLD    COPZ2--C14orf37 PALLD--C14orf37
+
+[[590]]
+IGRAPH 20520eb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20520eb (vertex names):
+[1] COPZ2--PALLD COPZ2--PYGO1 PALLD--PYGO1
+
+[[591]]
+IGRAPH 20520eb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20520eb (vertex names):
+[1] COPZ2--PALLD COPZ2--DDR2  PALLD--DDR2 
+
+[[592]]
+IGRAPH 205235c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205235c (vertex names):
+[1] COPZ2--PALLD COPZ2--FEZ1  PALLD--FEZ1 
+
+[[593]]
+IGRAPH 20525cd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20525cd (vertex names):
+[1] COPZ2--ISLR  COPZ2--FNDC1 ISLR --FNDC1
+
+[[594]]
+IGRAPH 2052aaf UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2052aaf (vertex names):
+[1] COPZ2--ISLR  COPZ2--CDH11 ISLR --CDH11
+
+[[595]]
+IGRAPH 2052d20 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2052d20 (vertex names):
+[1] COPZ2--ISLR COPZ2--FBN1 ISLR --FBN1
+
+[[596]]
+IGRAPH 2052f91 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2052f91 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --ISLR    RASGRF2--ISLR   
+
+[[597]]
+IGRAPH 2052f91 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2052f91 (vertex names):
+[1] COPZ2--ISLR   COPZ2--COL3A1 ISLR --COL3A1
+
+[[598]]
+IGRAPH 2053202 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053202 (vertex names):
+[1] COPZ2--ISLR   COPZ2--EFEMP2 ISLR --EFEMP2
+
+[[599]]
+IGRAPH 2053202 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053202 (vertex names):
+[1] COPZ2--ISLR   COPZ2--COL1A2 ISLR --COL1A2
+
+[[600]]
+IGRAPH 2053473 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053473 (vertex names):
+[1] COPZ2--ISLR   COPZ2--COL8A1 ISLR --COL8A1
+
+[[601]]
+IGRAPH 2053473 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053473 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --FEZ1   GLT8D2--FEZ1  
+
+[[602]]
+IGRAPH 2053473 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053473 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --THY1   GLT8D2--THY1  
+
+[[603]]
+IGRAPH 20536e5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20536e5 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --CDH11  GLT8D2--CDH11 
+
+[[604]]
+IGRAPH 20536e5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20536e5 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --FBN1   GLT8D2--FBN1  
+
+[[605]]
+IGRAPH 2053956 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053956 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --GLT8D2  RASGRF2--GLT8D2 
+
+[[606]]
+IGRAPH 2053956 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053956 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --COL3A1 GLT8D2--COL3A1
+
+[[607]]
+IGRAPH 2053956 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053956 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --EFEMP2 GLT8D2--EFEMP2
+
+[[608]]
+IGRAPH 2053bc7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053bc7 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --ZFPM2  GLT8D2--ZFPM2 
+
+[[609]]
+IGRAPH 2053bc7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053bc7 (vertex names):
+[1] COPZ2--SPARC  COPZ2--GLT8D2 SPARC--GLT8D2
+
+[[610]]
+IGRAPH 2053bc7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053bc7 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --GLT8D2 DPYSL3--GLT8D2
+
+[[611]]
+IGRAPH 2053e38 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053e38 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --OLFML1 GLT8D2--OLFML1
+
+[[612]]
+IGRAPH 2053e38 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2053e38 (vertex names):
+[1] COPZ2 --GLT8D2   COPZ2 --C14orf37 GLT8D2--C14orf37
+
+[[613]]
+IGRAPH 20540a9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20540a9 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --PRKD1  GLT8D2--PRKD1 
+
+[[614]]
+IGRAPH 20540a9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20540a9 (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --FSTL1  GLT8D2--FSTL1 
+
+[[615]]
+IGRAPH 20540a9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20540a9 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --GLT8D2 PLXDC2--GLT8D2
+
+[[616]]
+IGRAPH 205431a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205431a (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --DDR2   GLT8D2--DDR2  
+
+[[617]]
+IGRAPH 205458b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205458b (vertex names):
+[1] COPZ2 --GLT8D2  COPZ2 --HSPA12A GLT8D2--HSPA12A
+
+[[618]]
+IGRAPH 20547fc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20547fc (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --GXYLT2 GLT8D2--GXYLT2
+
+[[619]]
+IGRAPH 2054a6d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2054a6d (vertex names):
+[1] COPZ2 --GLT8D2 COPZ2 --CHSY3  GLT8D2--CHSY3 
+
+[[620]]
+IGRAPH 2054cde UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2054cde (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --CHSY3  PLXDC2--CHSY3 
+
+[[621]]
+IGRAPH 2054f4f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2054f4f (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --PYGO1  PLXDC2--PYGO1 
+
+[[622]]
+IGRAPH 2054f4f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2054f4f (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --THY1   PLXDC2--THY1  
+
+[[623]]
+IGRAPH 2054f4f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2054f4f (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --CDH11  PLXDC2--CDH11 
+
+[[624]]
+IGRAPH 20551c0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20551c0 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --FBN1   PLXDC2--FBN1  
+
+[[625]]
+IGRAPH 20551c0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20551c0 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --NDN    PLXDC2--NDN   
+
+[[626]]
+IGRAPH 2055431 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055431 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --COL3A1 PLXDC2--COL3A1
+
+[[627]]
+IGRAPH 2055431 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055431 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --EFEMP2 PLXDC2--EFEMP2
+
+[[628]]
+IGRAPH 2055431 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055431 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --GXYLT2 PLXDC2--GXYLT2
+
+[[629]]
+IGRAPH 20556a2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20556a2 (vertex names):
+[1] COPZ2--SPARC  COPZ2--PLXDC2 SPARC--PLXDC2
+
+[[630]]
+IGRAPH 20556a2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20556a2 (vertex names):
+[1] COPZ2 --PLXDC2  COPZ2 --HSPA12A PLXDC2--HSPA12A
+
+[[631]]
+IGRAPH 20556a2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20556a2 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --OLFML1 PLXDC2--OLFML1
+
+[[632]]
+IGRAPH 2055913 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055913 (vertex names):
+[1] COPZ2 --PLXDC2   COPZ2 --C14orf37 PLXDC2--C14orf37
+
+[[633]]
+IGRAPH 2055913 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055913 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --PRKD1  PLXDC2--PRKD1 
+
+[[634]]
+IGRAPH 2055913 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055913 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --FSTL1  PLXDC2--FSTL1 
+
+[[635]]
+IGRAPH 2055b84 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055b84 (vertex names):
+[1] COPZ2 --PLXDC2 COPZ2 --GLT8D2 PLXDC2--GLT8D2
+
+[[636]]
+IGRAPH 2055b84 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055b84 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --GLT8D2 DPYSL3--GLT8D2
+
+[[637]]
+IGRAPH 2055b84 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055b84 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --CHSY3  DPYSL3--CHSY3 
+
+[[638]]
+IGRAPH 2055df5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055df5 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --PYGO1  DPYSL3--PYGO1 
+
+[[639]]
+IGRAPH 2055df5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2055df5 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --THY1   DPYSL3--THY1  
+
+[[640]]
+IGRAPH 2056066 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2056066 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --CDH11  DPYSL3--CDH11 
+
+[[641]]
+IGRAPH 2056066 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2056066 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --FBN1   DPYSL3--FBN1  
+
+[[642]]
+IGRAPH 2056066 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2056066 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --NDN    DPYSL3--NDN   
+
+[[643]]
+IGRAPH 20562d7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20562d7 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --COL3A1 DPYSL3--COL3A1
+
+[[644]]
+IGRAPH 20562d7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20562d7 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --EFEMP2 DPYSL3--EFEMP2
+
+[[645]]
+IGRAPH 2056548 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2056548 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --GXYLT2 DPYSL3--GXYLT2
+
+[[646]]
+IGRAPH 2056548 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2056548 (vertex names):
+[1] COPZ2--SPARC  COPZ2--DPYSL3 SPARC--DPYSL3
+
+[[647]]
+IGRAPH 2056548 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2056548 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --FEZ1   DPYSL3--FEZ1  
+
+[[648]]
+IGRAPH 20567ba UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20567ba (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --OLFML1 DPYSL3--OLFML1
+
+[[649]]
+IGRAPH 20567ba UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20567ba (vertex names):
+[1] COPZ2 --DPYSL3   COPZ2 --C14orf37 DPYSL3--C14orf37
+
+[[650]]
+IGRAPH 20567ba UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20567ba (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --PRKD1  DPYSL3--PRKD1 
+
+[[651]]
+IGRAPH 2056a2b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2056a2b (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --FSTL1  DPYSL3--FSTL1 
+
+[[652]]
+IGRAPH 2056c9c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2056c9c (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --DDR2   DPYSL3--DDR2  
+
+[[653]]
+IGRAPH 2056f0d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2056f0d (vertex names):
+[1] COPZ2--ACTA2  COPZ2--DPYSL3 ACTA2--DPYSL3
+
+[[654]]
+IGRAPH 205717e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205717e (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --COL1A2 DPYSL3--COL1A2
+
+[[655]]
+IGRAPH 205717e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205717e (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --PALLD  DPYSL3--PALLD 
+
+[[656]]
+IGRAPH 2057660 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2057660 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --KIRREL DPYSL3--KIRREL
+
+[[657]]
+IGRAPH 2057660 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2057660 (vertex names):
+[1] COPZ2--SYDE1  COPZ2--DPYSL3 SYDE1--DPYSL3
+
+[[658]]
+IGRAPH 20578d1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20578d1 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --MXRA7  DPYSL3--MXRA7 
+
+[[659]]
+IGRAPH 20578d1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20578d1 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --COX7A1 DPYSL3--COX7A1
+
+[[660]]
+IGRAPH 2057b42 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2057b42 (vertex names):
+[1] COPZ2--LAMA4  COPZ2--DPYSL3 LAMA4--DPYSL3
+
+[[661]]
+IGRAPH 2057b42 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2057b42 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --COL6A2 DPYSL3--COL6A2
+
+[[662]]
+IGRAPH 2057db3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2057db3 (vertex names):
+[1] COPZ2 --DPYSL3 COPZ2 --BNC2   DPYSL3--BNC2  
+
+[[663]]
+IGRAPH 2057db3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2057db3 (vertex names):
+[1] COPZ2--MPDZ   COPZ2--DPYSL3 MPDZ --DPYSL3
+
+[[664]]
+IGRAPH 2057db3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2057db3 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --COL8A1  RASGRF2--COL8A1 
+
+[[665]]
+IGRAPH 2058024 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2058024 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --GLT8D2  RASGRF2--GLT8D2 
+
+[[666]]
+IGRAPH 2058024 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2058024 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --CERCAM  RASGRF2--CERCAM 
+
+[[667]]
+IGRAPH 2058295 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2058295 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --ISLR    RASGRF2--ISLR   
+
+[[668]]
+IGRAPH 2058295 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2058295 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --ZFPM2   RASGRF2--ZFPM2  
+
+[[669]]
+IGRAPH 2058506 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2058506 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --CDH11   RASGRF2--CDH11  
+
+[[670]]
+IGRAPH 2058777 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2058777 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --FBN1    RASGRF2--FBN1   
+
+[[671]]
+IGRAPH 2058777 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2058777 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --COL6A2  RASGRF2--COL6A2 
+
+[[672]]
+IGRAPH 20589e8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20589e8 (vertex names):
+[1] COPZ2--SYDE1   COPZ2--RASGRF2 SYDE1--RASGRF2
+
+[[673]]
+IGRAPH 20589e8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20589e8 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --EFEMP2  RASGRF2--EFEMP2 
+
+[[674]]
+IGRAPH 2058c59 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2058c59 (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --GXYLT2  RASGRF2--GXYLT2 
+
+[[675]]
+IGRAPH 2058eca UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2058eca (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --COL1A2  RASGRF2--COL1A2 
+
+[[676]]
+IGRAPH 2058eca UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2058eca (vertex names):
+[1] COPZ2  --RASGRF2 COPZ2  --PRKD1   RASGRF2--PRKD1  
+
+[[677]]
+IGRAPH 205913b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205913b (vertex names):
+[1] COPZ2--SPARC  COPZ2--PLXDC2 SPARC--PLXDC2
+
+[[678]]
+IGRAPH 205913b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205913b (vertex names):
+[1] COPZ2--SPARC  COPZ2--COL8A1 SPARC--COL8A1
+
+[[679]]
+IGRAPH 20593ac UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20593ac (vertex names):
+[1] COPZ2--SPARC  COPZ2--GLT8D2 SPARC--GLT8D2
+
+[[680]]
+IGRAPH 205961d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205961d (vertex names):
+[1] COPZ2--SPARC  COPZ2--CERCAM SPARC--CERCAM
+
+[[681]]
+IGRAPH 205988f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205988f (vertex names):
+[1] COPZ2--SPARC COPZ2--CHSY3 SPARC--CHSY3
+
+[[682]]
+IGRAPH 2059d71 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2059d71 (vertex names):
+[1] COPZ2--SPARC COPZ2--FNDC1 SPARC--FNDC1
+
+[[683]]
+IGRAPH 2059fe2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2059fe2 (vertex names):
+[1] COPZ2--SPARC COPZ2--CDH11 SPARC--CDH11
+
+[[684]]
+IGRAPH 2059fe2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2059fe2 (vertex names):
+[1] COPZ2--SPARC COPZ2--FBN1  SPARC--FBN1 
+
+[[685]]
+IGRAPH 205a253 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205a253 (vertex names):
+[1] COPZ2--SPARC  COPZ2--COL6A2 SPARC--COL6A2
+
+[[686]]
+IGRAPH 205a253 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205a253 (vertex names):
+[1] COPZ2--SPARC COPZ2--THY1  SPARC--THY1 
+
+[[687]]
+IGRAPH 205a4c4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205a4c4 (vertex names):
+[1] COPZ2--SPARC COPZ2--HTRA1 SPARC--HTRA1
+
+[[688]]
+IGRAPH 205a4c4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205a4c4 (vertex names):
+[1] COPZ2--SPARC  COPZ2--GXYLT2 SPARC--GXYLT2
+
+[[689]]
+IGRAPH 205a4c4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205a4c4 (vertex names):
+[1] COPZ2--SPARC  COPZ2--COL1A2 SPARC--COL1A2
+
+[[690]]
+IGRAPH 205a735 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205a735 (vertex names):
+[1] COPZ2--SPARC COPZ2--EDNRA SPARC--EDNRA
+
+[[691]]
+IGRAPH 205a9a6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205a9a6 (vertex names):
+[1] COPZ2--SPARC  COPZ2--OLFML1 SPARC--OLFML1
+
+[[692]]
+IGRAPH 205a9a6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205a9a6 (vertex names):
+[1] COPZ2--SPARC COPZ2--FSTL1 SPARC--FSTL1
+
+[[693]]
+IGRAPH 205ac17 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ac17 (vertex names):
+[1] COPZ2--SPARC  COPZ2--DPYSL3 SPARC--DPYSL3
+
+[[694]]
+IGRAPH 205ac17 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ac17 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--SPARC ACTA2--SPARC
+
+[[695]]
+IGRAPH 205ac17 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ac17 (vertex names):
+[1] COPZ2--SPARC  COPZ2--COL3A1 SPARC--COL3A1
+
+[[696]]
+IGRAPH 205ae88 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ae88 (vertex names):
+[1] COPZ2--LAMA4 COPZ2--SPARC LAMA4--SPARC
+
+[[697]]
+IGRAPH 205ae88 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ae88 (vertex names):
+[1] COPZ2--LAMA4 COPZ2--SPARC LAMA4--SPARC
+
+[[698]]
+IGRAPH 205b0fa UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205b0fa (vertex names):
+[1] COPZ2--LAMA4 COPZ2--PRKD1 LAMA4--PRKD1
+
+[[699]]
+IGRAPH 205b0fa UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205b0fa (vertex names):
+[1] COPZ2--MPDZ  COPZ2--LAMA4 MPDZ --LAMA4
+
+[[700]]
+IGRAPH 205b36b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205b36b (vertex names):
+[1] COPZ2--SYDE1 COPZ2--LAMA4 SYDE1--LAMA4
+
+[[701]]
+IGRAPH 205b36b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205b36b (vertex names):
+[1] COPZ2--LAMA4  COPZ2--CERCAM LAMA4--CERCAM
+
+[[702]]
+IGRAPH 205b36b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205b36b (vertex names):
+[1] COPZ2--LAMA4 COPZ2--CHSY3 LAMA4--CHSY3
+
+[[703]]
+IGRAPH 205b5dc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205b5dc (vertex names):
+[1] COPZ2--LAMA4  COPZ2--EFEMP2 LAMA4--EFEMP2
+
+[[704]]
+IGRAPH 205b5dc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205b5dc (vertex names):
+[1] COPZ2--LAMA4 COPZ2--DDR2  LAMA4--DDR2 
+
+[[705]]
+IGRAPH 205b5dc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205b5dc (vertex names):
+[1] COPZ2--LAMA4 COPZ2--FBN1  LAMA4--FBN1 
+
+[[706]]
+IGRAPH 205b84d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205b84d (vertex names):
+[1] COPZ2--LAMA4  COPZ2--COL6A2 LAMA4--COL6A2
+
+[[707]]
+IGRAPH 205b84d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205b84d (vertex names):
+[1] COPZ2--LAMA4 COPZ2--THY1  LAMA4--THY1 
+
+[[708]]
+IGRAPH 205babe UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205babe (vertex names):
+[1] COPZ2--LAMA4 COPZ2--FEZ1  LAMA4--FEZ1 
+
+[[709]]
+IGRAPH 205babe UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205babe (vertex names):
+[1] COPZ2--LAMA4  COPZ2--GXYLT2 LAMA4--GXYLT2
+
+[[710]]
+IGRAPH 205bd2f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205bd2f (vertex names):
+[1] COPZ2--LAMA4  COPZ2--COL1A2 LAMA4--COL1A2
+
+[[711]]
+IGRAPH 205bfa0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205bfa0 (vertex names):
+[1] COPZ2--LAMA4 COPZ2--BNC2  LAMA4--BNC2 
+
+[[712]]
+IGRAPH 205c211 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205c211 (vertex names):
+[1] COPZ2--LAMA4  COPZ2--KIRREL LAMA4--KIRREL
+
+[[713]]
+IGRAPH 205c211 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205c211 (vertex names):
+[1] COPZ2--LAMA4 COPZ2--FSTL1 LAMA4--FSTL1
+
+[[714]]
+IGRAPH 205c482 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205c482 (vertex names):
+[1] COPZ2--LAMA4  COPZ2--DPYSL3 LAMA4--DPYSL3
+
+[[715]]
+IGRAPH 205c482 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205c482 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--LAMA4 ACTA2--LAMA4
+
+[[716]]
+IGRAPH 205c6f3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205c6f3 (vertex names):
+[1] COPZ2--LAMA4  COPZ2--COL3A1 LAMA4--COL3A1
+
+[[717]]
+IGRAPH 205c6f3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205c6f3 (vertex names):
+[1] COPZ2--ACTA2  COPZ2--COL3A1 ACTA2--COL3A1
+
+[[718]]
+IGRAPH 205c964 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205c964 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--SPARC ACTA2--SPARC
+
+[[719]]
+IGRAPH 205c964 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205c964 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--PRKD1 ACTA2--PRKD1
+
+[[720]]
+IGRAPH 205cbd5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205cbd5 (vertex names):
+[1] COPZ2--MPDZ  COPZ2--ACTA2 MPDZ --ACTA2
+
+[[721]]
+IGRAPH 205cbd5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205cbd5 (vertex names):
+[1] COPZ2--ACTA2  COPZ2--COL8A1 ACTA2--COL8A1
+
+[[722]]
+IGRAPH 205ce46 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ce46 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--NDN   ACTA2--NDN  
+
+[[723]]
+IGRAPH 205ce46 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ce46 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--CHSY3 ACTA2--CHSY3
+
+[[724]]
+IGRAPH 205ce46 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ce46 (vertex names):
+[1] COPZ2--ACTA2    COPZ2--C14orf37 ACTA2--C14orf37
+
+[[725]]
+IGRAPH 205d0b7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205d0b7 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--DDR2  ACTA2--DDR2 
+
+[[726]]
+IGRAPH 205d0b7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205d0b7 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--HTRA1 ACTA2--HTRA1
+
+[[727]]
+IGRAPH 205d328 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205d328 (vertex names):
+[1] COPZ2--ACTA2  COPZ2--COL6A2 ACTA2--COL6A2
+
+[[728]]
+IGRAPH 205d328 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205d328 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--THY1  ACTA2--THY1 
+
+[[729]]
+IGRAPH 205d599 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205d599 (vertex names):
+[1] COPZ2--ACTA2 COPZ2--FEZ1  ACTA2--FEZ1 
+
+[[730]]
+IGRAPH 205d599 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205d599 (vertex names):
+[1] COPZ2--ACTA2  COPZ2--GXYLT2 ACTA2--GXYLT2
+
+[[731]]
+IGRAPH 205d599 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205d599 (vertex names):
+[1] COPZ2--ACTA2  COPZ2--COX7A1 ACTA2--COX7A1
+
+[[732]]
+IGRAPH 205d80a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205d80a (vertex names):
+[1] COPZ2--ACTA2 COPZ2--BNC2  ACTA2--BNC2 
+
+[[733]]
+IGRAPH 205d80a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205d80a (vertex names):
+[1] COPZ2--ACTA2 COPZ2--MXRA7 ACTA2--MXRA7
+
+[[734]]
+IGRAPH 205da7b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205da7b (vertex names):
+[1] COPZ2--ACTA2 COPZ2--FSTL1 ACTA2--FSTL1
+
+[[735]]
+IGRAPH 205dcec UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205dcec (vertex names):
+[1] COPZ2--ACTA2  COPZ2--DPYSL3 ACTA2--DPYSL3
+
+[[736]]
+IGRAPH 205dcec UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205dcec (vertex names):
+[1] COPZ2--ACTA2 COPZ2--LAMA4 ACTA2--LAMA4
+
+[[737]]
+IGRAPH 205df5d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205df5d (vertex names):
+[1] COPZ2--MPDZ  COPZ2--LAMA4 MPDZ --LAMA4
+
+[[738]]
+IGRAPH 205e1cf UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205e1cf (vertex names):
+[1] COPZ2--SYDE1 COPZ2--MPDZ  SYDE1--MPDZ 
+
+[[739]]
+IGRAPH 205e1cf UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205e1cf (vertex names):
+[1] COPZ2--MPDZ    COPZ2--HSPA12A MPDZ --HSPA12A
+
+[[740]]
+IGRAPH 205e440 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205e440 (vertex names):
+[1] COPZ2--MPDZ  COPZ2--PRKD1 MPDZ --PRKD1
+
+[[741]]
+IGRAPH 205e440 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205e440 (vertex names):
+[1] COPZ2--MPDZ  COPZ2--ACTA2 MPDZ --ACTA2
+
+[[742]]
+IGRAPH 205e922 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205e922 (vertex names):
+[1] COPZ2--MPDZ  COPZ2--ZFPM2 MPDZ --ZFPM2
+
+[[743]]
+IGRAPH 205eb93 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205eb93 (vertex names):
+[1] COPZ2--MPDZ COPZ2--NDN  MPDZ --NDN 
+
+[[744]]
+IGRAPH 205eb93 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205eb93 (vertex names):
+[1] COPZ2--MPDZ  COPZ2--PYGO1 MPDZ --PYGO1
+
+[[745]]
+IGRAPH 205f075 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205f075 (vertex names):
+[1] COPZ2--MPDZ     COPZ2--C14orf37 MPDZ --C14orf37
+
+[[746]]
+IGRAPH 205f2e6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205f2e6 (vertex names):
+[1] COPZ2--MPDZ COPZ2--DDR2 MPDZ --DDR2
+
+[[747]]
+IGRAPH 205f2e6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205f2e6 (vertex names):
+[1] COPZ2--MPDZ   COPZ2--EFEMP2 MPDZ --EFEMP2
+
+[[748]]
+IGRAPH 205f557 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205f557 (vertex names):
+[1] COPZ2--MPDZ   COPZ2--COL6A2 MPDZ --COL6A2
+
+[[749]]
+IGRAPH 205f557 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205f557 (vertex names):
+[1] COPZ2--MPDZ   COPZ2--KIRREL MPDZ --KIRREL
+
+[[750]]
+IGRAPH 205f557 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205f557 (vertex names):
+[1] COPZ2--MPDZ COPZ2--FEZ1 MPDZ --FEZ1
+
+[[751]]
+IGRAPH 205f7c8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205f7c8 (vertex names):
+[1] COPZ2--MPDZ   COPZ2--GXYLT2 MPDZ --GXYLT2
+
+[[752]]
+IGRAPH 205f7c8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205f7c8 (vertex names):
+[1] COPZ2--MPDZ   COPZ2--COX7A1 MPDZ --COX7A1
+
+[[753]]
+IGRAPH 205fa3a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205fa3a (vertex names):
+[1] COPZ2--MPDZ COPZ2--BNC2 MPDZ --BNC2
+
+[[754]]
+IGRAPH 205fa3a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205fa3a (vertex names):
+[1] COPZ2--MPDZ  COPZ2--MXRA7 MPDZ --MXRA7
+
+[[755]]
+IGRAPH 205fa3a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205fa3a (vertex names):
+[1] COPZ2--MPDZ  COPZ2--FSTL1 MPDZ --FSTL1
+
+[[756]]
+IGRAPH 205fcab UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205fcab (vertex names):
+[1] COPZ2--MPDZ   COPZ2--DPYSL3 MPDZ --DPYSL3
+
+[[757]]
+IGRAPH 205fcab UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205fcab (vertex names):
+[1] COPZ2--SYDE1  COPZ2--DPYSL3 SYDE1--DPYSL3
+
+[[758]]
+IGRAPH 205ff1c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ff1c (vertex names):
+[1] COPZ2--SYDE1 COPZ2--LAMA4 SYDE1--LAMA4
+
+[[759]]
+IGRAPH 205ff1c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ff1c (vertex names):
+[1] COPZ2--SYDE1 COPZ2--MPDZ  SYDE1--MPDZ 
+
+[[760]]
+IGRAPH 205ff1c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 205ff1c (vertex names):
+[1] COPZ2--SYDE1   COPZ2--HSPA12A SYDE1--HSPA12A
+
+[[761]]
+IGRAPH 206018d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206018d (vertex names):
+[1] COPZ2--SYDE1 COPZ2--PRKD1 SYDE1--PRKD1
+
+[[762]]
+IGRAPH 20603fe UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20603fe (vertex names):
+[1] COPZ2--SYDE1  COPZ2--COL3A1 SYDE1--COL3A1
+
+[[763]]
+IGRAPH 20603fe UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20603fe (vertex names):
+[1] COPZ2--SYDE1 COPZ2--ZFPM2 SYDE1--ZFPM2
+
+[[764]]
+IGRAPH 206066f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206066f (vertex names):
+[1] COPZ2--SYDE1  COPZ2--CERCAM SYDE1--CERCAM
+
+[[765]]
+IGRAPH 206066f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206066f (vertex names):
+[1] COPZ2--SYDE1 COPZ2--CHSY3 SYDE1--CHSY3
+
+[[766]]
+IGRAPH 20608e0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20608e0 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--CDH11 SYDE1--CDH11
+
+[[767]]
+IGRAPH 20608e0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20608e0 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--THY1  SYDE1--THY1 
+
+[[768]]
+IGRAPH 2060b51 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2060b51 (vertex names):
+[1] COPZ2--SYDE1  COPZ2--EFEMP2 SYDE1--EFEMP2
+
+[[769]]
+IGRAPH 2060b51 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2060b51 (vertex names):
+[1] COPZ2--SYDE1  COPZ2--COL6A2 SYDE1--COL6A2
+
+[[770]]
+IGRAPH 2060dc2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2060dc2 (vertex names):
+[1] COPZ2--SYDE1  COPZ2--KIRREL SYDE1--KIRREL
+
+[[771]]
+IGRAPH 2061033 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2061033 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--FBN1  SYDE1--FBN1 
+
+[[772]]
+IGRAPH 2061033 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2061033 (vertex names):
+[1] COPZ2--SYDE1  COPZ2--GXYLT2 SYDE1--GXYLT2
+
+[[773]]
+IGRAPH 2061515 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2061515 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--EDNRA SYDE1--EDNRA
+
+[[774]]
+IGRAPH 2061786 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2061786 (vertex names):
+[1] COPZ2--SYDE1  COPZ2--OLFML1 SYDE1--OLFML1
+
+[[775]]
+IGRAPH 2061786 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2061786 (vertex names):
+[1] COPZ2--SYDE1   COPZ2--RASGRF2 SYDE1--RASGRF2
+
+[[776]]
+IGRAPH 20619f7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20619f7 (vertex names):
+[1] COPZ2--SYDE1 COPZ2--FSTL1 SYDE1--FSTL1
+
+[[777]]
+IGRAPH 20619f7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20619f7 (vertex names):
+[1] ABCC8--GAD2            ABCC8--ENSG00000254647 GAD2 --ENSG00000254647
+
+[[778]]
+IGRAPH 20619f7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20619f7 (vertex names):
+[1] ABCC8--CABP7           ABCC8--ENSG00000254647 CABP7--ENSG00000254647
+
+[[779]]
+IGRAPH 2061c68 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2061c68 (vertex names):
+[1] ABCC8--SCG3            ABCC8--ENSG00000254647 SCG3 --ENSG00000254647
+
+[[780]]
+IGRAPH 2061c68 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2061c68 (vertex names):
+[1] ABCC8--TUNAR           ABCC8--ENSG00000254647 TUNAR--ENSG00000254647
+
+[[781]]
+IGRAPH 2061ed9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2061ed9 (vertex names):
+[1] ABCC8 --KCNMB2          ABCC8 --ENSG00000254647 KCNMB2--ENSG00000254647
+
+[[782]]
+IGRAPH 2061ed9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2061ed9 (vertex names):
+[1] ABCC8  --SLC4A10         ABCC8  --ENSG00000254647 SLC4A10--ENSG00000254647
+
+[[783]]
+IGRAPH 2061ed9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2061ed9 (vertex names):
+[1] ABCC8--PCSK2           ABCC8--ENSG00000254647 PCSK2--ENSG00000254647
+
+[[784]]
+IGRAPH 206214a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206214a (vertex names):
+[1] ABCC8--CFC1            ABCC8--ENSG00000254647 CFC1 --ENSG00000254647
+
+[[785]]
+IGRAPH 206214a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206214a (vertex names):
+[1] ABCC8--MAFA            ABCC8--ENSG00000254647 MAFA --ENSG00000254647
+
+[[786]]
+IGRAPH 206214a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206214a (vertex names):
+[1] ABCC8   --MIR7-3HG        ABCC8   --ENSG00000254647 MIR7-3HG--ENSG00000254647
+
+[[787]]
+IGRAPH 20623bb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20623bb (vertex names):
+[1] ABCC8--CPLX2           ABCC8--ENSG00000254647 CPLX2--ENSG00000254647
+
+[[788]]
+IGRAPH 20623bb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20623bb (vertex names):
+[1] ABCC8  --SLC30A8         ABCC8  --ENSG00000254647 SLC30A8--ENSG00000254647
+
+[[789]]
+IGRAPH 206262c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206262c (vertex names):
+[1] ABCC8  --NEUROD1         ABCC8  --ENSG00000254647 NEUROD1--ENSG00000254647
+
+[[790]]
+IGRAPH 206262c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206262c (vertex names):
+[1] ABCC8  --HMGCLL1         ABCC8  --ENSG00000254647 HMGCLL1--ENSG00000254647
+
+[[791]]
+IGRAPH 206262c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206262c (vertex names):
+[1] ABCC8--SST             ABCC8--ENSG00000254647 SST  --ENSG00000254647
+
+[[792]]
+IGRAPH 206289d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206289d (vertex names):
+[1] ABCC8          --ENSG00000152254 ABCC8          --ENSG00000254647
+[3] ENSG00000152254--ENSG00000254647
+
+[[793]]
+IGRAPH 206289d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206289d (vertex names):
+[1] ABCC8   --TMEM132D        ABCC8   --ENSG00000254647 TMEM132D--ENSG00000254647
+
+[[794]]
+IGRAPH 206289d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206289d (vertex names):
+[1] ABCC8 --ERO1LB   ABCC8 --C1orf168 ERO1LB--C1orf168
+
+[[795]]
+IGRAPH 2062b0f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2062b0f (vertex names):
+[1] ABCC8--PAX6     ABCC8--C1orf168 PAX6 --C1orf168
+
+[[796]]
+IGRAPH 2062b0f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2062b0f (vertex names):
+[1] ABCC8          --ENSG00000145198 ABCC8          --C1orf168       
+[3] ENSG00000145198--C1orf168       
+
+[[797]]
+IGRAPH 2062d80 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2062d80 (vertex names):
+[1] ABCC8   --TMEM132D ABCC8   --TUNAR    TMEM132D--TUNAR   
+
+[[798]]
+IGRAPH 2062d80 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2062d80 (vertex names):
+[1] ABCC8--TUNAR           ABCC8--ENSG00000254647 TUNAR--ENSG00000254647
+
+[[799]]
+IGRAPH 2062d80 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2062d80 (vertex names):
+[1] ABCC8--GAD2  ABCC8--TUNAR GAD2 --TUNAR
+
+[[800]]
+IGRAPH 2062ff1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2062ff1 (vertex names):
+[1] ABCC8          --ENSG00000183473 ABCC8          --TUNAR          
+[3] ENSG00000183473--TUNAR          
+
+[[801]]
+IGRAPH 2062ff1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2062ff1 (vertex names):
+[1] ABCC8 --KCNMB2 ABCC8 --TUNAR  KCNMB2--TUNAR 
+
+[[802]]
+IGRAPH 2062ff1 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2062ff1 (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --TUNAR   SLC4A10--TUNAR  
+
+[[803]]
+IGRAPH 2063262 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2063262 (vertex names):
+[1] ABCC8--PCSK2 ABCC8--TUNAR PCSK2--TUNAR
+
+[[804]]
+IGRAPH 2063262 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2063262 (vertex names):
+[1] ABCC8--KIF1A ABCC8--TUNAR KIF1A--TUNAR
+
+[[805]]
+IGRAPH 2063262 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2063262 (vertex names):
+[1] ABCC8--MAFA  ABCC8--TUNAR MAFA --TUNAR
+
+[[806]]
+IGRAPH 20634d3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20634d3 (vertex names):
+[1] ABCC8   --MIR7-3HG ABCC8   --TUNAR    MIR7-3HG--TUNAR   
+
+[[807]]
+IGRAPH 20634d3 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20634d3 (vertex names):
+[1] ABCC8--CPLX2 ABCC8--TUNAR CPLX2--TUNAR
+
+[[808]]
+IGRAPH 20639b5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20639b5 (vertex names):
+[1] ABCC8  --SLC30A8 ABCC8  --TUNAR   SLC30A8--TUNAR  
+
+[[809]]
+IGRAPH 2063c26 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2063c26 (vertex names):
+[1] ABCC8  --NEUROD1 ABCC8  --TUNAR   NEUROD1--TUNAR  
+
+[[810]]
+IGRAPH 2063c26 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2063c26 (vertex names):
+[1] ABCC8  --HMGCLL1 ABCC8  --TUNAR   HMGCLL1--TUNAR  
+
+[[811]]
+IGRAPH 2063e97 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2063e97 (vertex names):
+[1] ABCC8--SCG3  ABCC8--TUNAR SCG3 --TUNAR
+
+[[812]]
+IGRAPH 2064108 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064108 (vertex names):
+[1] ABCC8          --ENSG00000152254 ABCC8          --TUNAR          
+[3] ENSG00000152254--TUNAR          
+
+[[813]]
+IGRAPH 2064108 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064108 (vertex names):
+[1] ABCC8 --ERO1LB  ABCC8 --SLC4A10 ERO1LB--SLC4A10
+
+[[814]]
+IGRAPH 2064379 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064379 (vertex names):
+[1] ABCC8  --SLC4A10  ABCC8  --TMEM132D SLC4A10--TMEM132D
+
+[[815]]
+IGRAPH 2064379 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064379 (vertex names):
+[1] ABCC8  --SLC4A10         ABCC8  --ENSG00000254647 SLC4A10--ENSG00000254647
+
+[[816]]
+IGRAPH 20645ea UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20645ea (vertex names):
+[1] ABCC8--GAD2    ABCC8--SLC4A10 GAD2 --SLC4A10
+
+[[817]]
+IGRAPH 20645ea UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20645ea (vertex names):
+[1] ABCC8  --SLC4A10         ABCC8  --ENSG00000183473 SLC4A10--ENSG00000183473
+
+[[818]]
+IGRAPH 20645eb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20645eb (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --KCNMB2  SLC4A10--KCNMB2 
+
+[[819]]
+IGRAPH 206485b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206485b (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --TUNAR   SLC4A10--TUNAR  
+
+[[820]]
+IGRAPH 206485b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206485b (vertex names):
+[1] ABCC8--PCSK2   ABCC8--SLC4A10 PCSK2--SLC4A10
+
+[[821]]
+IGRAPH 206485c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206485c (vertex names):
+[1] ABCC8--KIF1A   ABCC8--SLC4A10 KIF1A--SLC4A10
+
+[[822]]
+IGRAPH 2064acc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064acc (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --MAFA    SLC4A10--MAFA   
+
+[[823]]
+IGRAPH 2064acc UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064acc (vertex names):
+[1] ABCC8  --SLC4A10  ABCC8  --MIR7-3HG SLC4A10--MIR7-3HG
+
+[[824]]
+IGRAPH 2064d3d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064d3d (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --CPLX2   SLC4A10--CPLX2  
+
+[[825]]
+IGRAPH 2064d3d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064d3d (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --SLC30A8 SLC4A10--SLC30A8
+
+[[826]]
+IGRAPH 2064d3e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064d3e (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --NEUROD1 SLC4A10--NEUROD1
+
+[[827]]
+IGRAPH 2064fae UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064fae (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --HMGCLL1 SLC4A10--HMGCLL1
+
+[[828]]
+IGRAPH 2064fae UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2064fae (vertex names):
+[1] ABCC8--SCG3    ABCC8--SLC4A10 SCG3 --SLC4A10
+
+[[829]]
+IGRAPH 206521f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206521f (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --ELAVL4  SLC4A10--ELAVL4 
+
+[[830]]
+IGRAPH 206521f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206521f (vertex names):
+[1] ABCC8--PAX6    ABCC8--SLC4A10 PAX6 --SLC4A10
+
+[[831]]
+IGRAPH 2065220 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065220 (vertex names):
+[1] ABCC8--CABP7   ABCC8--SLC4A10 CABP7--SLC4A10
+
+[[832]]
+IGRAPH 2065490 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065490 (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --SST     SLC4A10--SST    
+
+[[833]]
+IGRAPH 2065490 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065490 (vertex names):
+[1] ABCC8--SST    ABCC8--KCNMB2 SST  --KCNMB2
+
+[[834]]
+IGRAPH 2065491 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065491 (vertex names):
+[1] ABCC8          --ENSG00000152254 ABCC8          --KCNMB2         
+[3] ENSG00000152254--KCNMB2         
+
+[[835]]
+IGRAPH 2065701 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065701 (vertex names):
+[1] ABCC8   --TMEM132D ABCC8   --KCNMB2   TMEM132D--KCNMB2  
+
+[[836]]
+IGRAPH 2065701 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065701 (vertex names):
+[1] ABCC8 --KCNMB2          ABCC8 --ENSG00000254647 KCNMB2--ENSG00000254647
+
+[[837]]
+IGRAPH 2065972 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065972 (vertex names):
+[1] ABCC8--GAD2   ABCC8--KCNMB2 GAD2 --KCNMB2
+
+[[838]]
+IGRAPH 2065972 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065972 (vertex names):
+[1] ABCC8          --ENSG00000183473 ABCC8          --KCNMB2         
+[3] ENSG00000183473--KCNMB2         
+
+[[839]]
+IGRAPH 2065973 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065973 (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --KCNMB2  SLC4A10--KCNMB2 
+
+[[840]]
+IGRAPH 2065be4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065be4 (vertex names):
+[1] ABCC8 --KCNMB2 ABCC8 --TUNAR  KCNMB2--TUNAR 
+
+[[841]]
+IGRAPH 2065be4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065be4 (vertex names):
+[1] ABCC8--PCSK2  ABCC8--KCNMB2 PCSK2--KCNMB2
+
+[[842]]
+IGRAPH 2065be4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065be4 (vertex names):
+[1] ABCC8 --PPP4R4 ABCC8 --KCNMB2 PPP4R4--KCNMB2
+
+[[843]]
+IGRAPH 2065e55 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065e55 (vertex names):
+[1] ABCC8--CFC1   ABCC8--KCNMB2 CFC1 --KCNMB2
+
+[[844]]
+IGRAPH 2065e55 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2065e55 (vertex names):
+[1] ABCC8   --MIR7-3HG ABCC8   --KCNMB2   MIR7-3HG--KCNMB2  
+
+[[845]]
+IGRAPH 20660c6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20660c6 (vertex names):
+[1] ABCC8--CPLX2  ABCC8--KCNMB2 CPLX2--KCNMB2
+
+[[846]]
+IGRAPH 2066337 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2066337 (vertex names):
+[1] ABCC8  --SLC30A8 ABCC8  --KCNMB2  SLC30A8--KCNMB2 
+
+[[847]]
+IGRAPH 20665a8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20665a8 (vertex names):
+[1] ABCC8  --NEUROD1 ABCC8  --KCNMB2  NEUROD1--KCNMB2 
+
+[[848]]
+IGRAPH 2066819 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2066819 (vertex names):
+[1] ABCC8--CABP7  ABCC8--KCNMB2 CABP7--KCNMB2
+
+[[849]]
+IGRAPH 2066a8a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2066a8a (vertex names):
+[1] ABCC8--SCG3   ABCC8--KCNMB2 SCG3 --KCNMB2
+
+[[850]]
+IGRAPH 2066cfb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2066cfb (vertex names):
+[1] ABCC8--PAX6   ABCC8--KCNMB2 PAX6 --KCNMB2
+
+[[851]]
+IGRAPH 2066cfb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2066cfb (vertex names):
+[1] ABCC8 --ERO1LB ABCC8 --GAD2   ERO1LB--GAD2  
+
+[[852]]
+IGRAPH 2066f6c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2066f6c (vertex names):
+[1] ABCC8--KIF1A ABCC8--GAD2  KIF1A--GAD2 
+
+[[853]]
+IGRAPH 2066f6c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2066f6c (vertex names):
+[1] ABCC8--GAD2            ABCC8--ENSG00000152254 GAD2 --ENSG00000152254
+
+[[854]]
+IGRAPH 2066f6c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2066f6c (vertex names):
+[1] ABCC8--GAD2     ABCC8--TMEM132D GAD2 --TMEM132D
+
+[[855]]
+IGRAPH 20671dd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20671dd (vertex names):
+[1] ABCC8--GAD2            ABCC8--ENSG00000254647 GAD2 --ENSG00000254647
+
+[[856]]
+IGRAPH 20671dd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20671dd (vertex names):
+[1] ABCC8--GAD2   ABCC8--KCNMB2 GAD2 --KCNMB2
+
+[[857]]
+IGRAPH 20671dd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20671dd (vertex names):
+[1] ABCC8--GAD2            ABCC8--ENSG00000183473 GAD2 --ENSG00000183473
+
+[[858]]
+IGRAPH 206744f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206744f (vertex names):
+[1] ABCC8--GAD2    ABCC8--SLC4A10 GAD2 --SLC4A10
+
+[[859]]
+IGRAPH 206744f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206744f (vertex names):
+[1] ABCC8--GAD2  ABCC8--TUNAR GAD2 --TUNAR
+
+[[860]]
+IGRAPH 206744f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206744f (vertex names):
+[1] ABCC8--PCSK2 ABCC8--GAD2  PCSK2--GAD2 
+
+[[861]]
+IGRAPH 20676c0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20676c0 (vertex names):
+[1] ABCC8--GAD2  ABCC8--CDH22 GAD2 --CDH22
+
+[[862]]
+IGRAPH 20676c0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20676c0 (vertex names):
+[1] ABCC8--CFC1 ABCC8--GAD2 CFC1 --GAD2
+
+[[863]]
+IGRAPH 2067931 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2067931 (vertex names):
+[1] ABCC8--GAD2     ABCC8--MIR7-3HG GAD2 --MIR7-3HG
+
+[[864]]
+IGRAPH 2067931 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2067931 (vertex names):
+[1] ABCC8--GAD2  ABCC8--CPLX2 GAD2 --CPLX2
+
+[[865]]
+IGRAPH 2067931 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2067931 (vertex names):
+[1] ABCC8--GAD2    ABCC8--SLC30A8 GAD2 --SLC30A8
+
+[[866]]
+IGRAPH 2067ba2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2067ba2 (vertex names):
+[1] ABCC8--GAD2    ABCC8--NEUROD1 GAD2 --NEUROD1
+
+[[867]]
+IGRAPH 2067ba2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2067ba2 (vertex names):
+[1] ABCC8--CABP7 ABCC8--GAD2  CABP7--GAD2 
+
+[[868]]
+IGRAPH 2067e13 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2067e13 (vertex names):
+[1] ABCC8--SCG3 ABCC8--GAD2 SCG3 --GAD2
+
+[[869]]
+IGRAPH 2067e13 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2067e13 (vertex names):
+[1] ABCC8--GAD2   ABCC8--ELAVL4 GAD2 --ELAVL4
+
+[[870]]
+IGRAPH 2067e13 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2067e13 (vertex names):
+[1] ABCC8--GAD2 ABCC8--MAFA GAD2 --MAFA
+
+[[871]]
+IGRAPH 2068084 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2068084 (vertex names):
+[1] ABCC8 --ERO1LB ABCC8 --MAFA   ERO1LB--MAFA  
+
+[[872]]
+IGRAPH 2068084 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2068084 (vertex names):
+[1] ABCC8 --ERO1LB ABCC8 --GAD2   ERO1LB--GAD2  
+
+[[873]]
+IGRAPH 2068084 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2068084 (vertex names):
+[1] ABCC8 --ERO1LB   ABCC8 --C1orf168 ERO1LB--C1orf168
+
+[[874]]
+IGRAPH 20682f5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20682f5 (vertex names):
+[1] ABCC8 --ERO1LB          ABCC8 --ENSG00000152254 ERO1LB--ENSG00000152254
+
+[[875]]
+IGRAPH 20682f5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20682f5 (vertex names):
+[1] ABCC8 --ERO1LB ABCC8 --SCG3   ERO1LB--SCG3  
+
+[[876]]
+IGRAPH 20682f5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20682f5 (vertex names):
+[1] ABCC8 --ERO1LB ABCC8 --CABP7  ERO1LB--CABP7 
+
+[[877]]
+IGRAPH 2068566 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2068566 (vertex names):
+[1] ABCC8 --ERO1LB   ABCC8 --MIR7-3HG ERO1LB--MIR7-3HG
+
+[[878]]
+IGRAPH 2068566 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2068566 (vertex names):
+[1] ABCC8 --ERO1LB  ABCC8 --SLC4A10 ERO1LB--SLC4A10
+
+[[879]]
+IGRAPH 20687d7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20687d7 (vertex names):
+[1] ABCC8  --SLC4A10         ABCC8  --ENSG00000183473 SLC4A10--ENSG00000183473
+
+[[880]]
+IGRAPH 2068a48 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2068a48 (vertex names):
+[1] ABCC8--MAFA            ABCC8--ENSG00000183473 MAFA --ENSG00000183473
+
+[[881]]
+IGRAPH 2068cb9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2068cb9 (vertex names):
+[1] ABCC8--GAD2            ABCC8--ENSG00000183473 GAD2 --ENSG00000183473
+
+[[882]]
+IGRAPH 2068f2a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2068f2a (vertex names):
+[1] ABCC8 --KCNK16          ABCC8 --ENSG00000183473 KCNK16--ENSG00000183473
+
+[[883]]
+IGRAPH 206919b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206919b (vertex names):
+[1] ABCC8   --TMEM132D        ABCC8   --ENSG00000183473 TMEM132D--ENSG00000183473
+
+[[884]]
+IGRAPH 206919b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206919b (vertex names):
+[1] ABCC8          --ENSG00000183473 ABCC8          --KCNMB2         
+[3] ENSG00000183473--KCNMB2         
+
+[[885]]
+IGRAPH 206940c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206940c (vertex names):
+[1] ABCC8  --NEUROD1         ABCC8  --ENSG00000183473 NEUROD1--ENSG00000183473
+
+[[886]]
+IGRAPH 206940c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206940c (vertex names):
+[1] ABCC8   --MIR7-3HG        ABCC8   --ENSG00000183473 MIR7-3HG--ENSG00000183473
+
+[[887]]
+IGRAPH 206940c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206940c (vertex names):
+[1] ABCC8          --ENSG00000183473 ABCC8          --TUNAR          
+[3] ENSG00000183473--TUNAR          
+
+[[888]]
+IGRAPH 206967d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206967d (vertex names):
+[1] ABCC8--PCSK2           ABCC8--ENSG00000183473 PCSK2--ENSG00000183473
+
+[[889]]
+IGRAPH 206967d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206967d (vertex names):
+[1] ABCC8  --SLC30A8         ABCC8  --ENSG00000183473 SLC30A8--ENSG00000183473
+
+[[890]]
+IGRAPH 20698ee UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20698ee (vertex names):
+[1] ABCC8--CFC1            ABCC8--ENSG00000183473 CFC1 --ENSG00000183473
+
+[[891]]
+IGRAPH 20698ee UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20698ee (vertex names):
+[1] ABCC8--CPLX2           ABCC8--ENSG00000183473 CPLX2--ENSG00000183473
+
+[[892]]
+IGRAPH 2069b5f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2069b5f (vertex names):
+[1] ABCC8--CPLX2 ABCC8--MAFA  CPLX2--MAFA 
+
+[[893]]
+IGRAPH 2069b5f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2069b5f (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --MAFA    SLC4A10--MAFA   
+
+[[894]]
+IGRAPH 2069dd0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2069dd0 (vertex names):
+[1] ABCC8--MAFA            ABCC8--ENSG00000183473 MAFA --ENSG00000183473
+
+[[895]]
+IGRAPH 2069dd0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2069dd0 (vertex names):
+[1] ABCC8--GAD2 ABCC8--MAFA GAD2 --MAFA
+
+[[896]]
+IGRAPH 2069dd0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2069dd0 (vertex names):
+[1] ABCC8 --KCNK16 ABCC8 --MAFA   KCNK16--MAFA  
+
+[[897]]
+IGRAPH 206a041 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206a041 (vertex names):
+[1] ABCC8   --TMEM132D ABCC8   --MAFA     TMEM132D--MAFA    
+
+[[898]]
+IGRAPH 206a041 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206a041 (vertex names):
+[1] ABCC8--KIF1A ABCC8--MAFA  KIF1A--MAFA 
+
+[[899]]
+IGRAPH 206a041 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206a041 (vertex names):
+[1] ABCC8  --NEUROD1 ABCC8  --MAFA    NEUROD1--MAFA   
+
+[[900]]
+IGRAPH 206a2b2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206a2b2 (vertex names):
+[1] ABCC8   --MIR7-3HG ABCC8   --MAFA     MIR7-3HG--MAFA    
+
+[[901]]
+IGRAPH 206a2b2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206a2b2 (vertex names):
+[1] ABCC8--MAFA  ABCC8--TUNAR MAFA --TUNAR
+
+[[902]]
+IGRAPH 206a524 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206a524 (vertex names):
+[1] ABCC8--PCSK2 ABCC8--MAFA  PCSK2--MAFA 
+
+[[903]]
+IGRAPH 206a524 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206a524 (vertex names):
+[1] ABCC8  --SLC30A8 ABCC8  --MAFA    SLC30A8--MAFA   
+
+[[904]]
+IGRAPH 206a524 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206a524 (vertex names):
+[1] ABCC8--CFC1 ABCC8--MAFA CFC1 --MAFA
+
+[[905]]
+IGRAPH 206a795 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206a795 (vertex names):
+[1] ABCC8 --ERO1LB ABCC8 --MAFA   ERO1LB--MAFA  
+
+[[906]]
+IGRAPH 206a795 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206a795 (vertex names):
+[1] ABCC8  --HMGCLL1 ABCC8  --MAFA    HMGCLL1--MAFA   
+
+[[907]]
+IGRAPH 206aa06 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206aa06 (vertex names):
+[1] ABCC8--CABP7 ABCC8--MAFA  CABP7--MAFA 
+
+[[908]]
+IGRAPH 206aa06 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206aa06 (vertex names):
+[1] ABCC8--MAFA            ABCC8--ENSG00000254647 MAFA --ENSG00000254647
+
+[[909]]
+IGRAPH 206aa06 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206aa06 (vertex names):
+[1] ABCC8          --ENSG00000152254 ABCC8          --MAFA           
+[3] ENSG00000152254--MAFA           
+
+[[910]]
+IGRAPH 206ac77 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206ac77 (vertex names):
+[1] ABCC8  --PPP1R1A ABCC8  --MAFA    PPP1R1A--MAFA   
+
+[[911]]
+IGRAPH 206ac77 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206ac77 (vertex names):
+[1] ABCC8--SCG3 ABCC8--MAFA SCG3 --MAFA
+
+[[912]]
+IGRAPH 206aee8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206aee8 (vertex names):
+[1] ABCC8--SCG3     ABCC8--MIR7-3HG SCG3 --MIR7-3HG
+
+[[913]]
+IGRAPH 206aee8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206aee8 (vertex names):
+[1] ABCC8--CPLX2    ABCC8--MIR7-3HG CPLX2--MIR7-3HG
+
+[[914]]
+IGRAPH 206aee8 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206aee8 (vertex names):
+[1] ABCC8  --SLC4A10  ABCC8  --MIR7-3HG SLC4A10--MIR7-3HG
+
+[[915]]
+IGRAPH 206b159 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206b159 (vertex names):
+[1] ABCC8   --MIR7-3HG        ABCC8   --ENSG00000183473 MIR7-3HG--ENSG00000183473
+
+[[916]]
+IGRAPH 206b3ca UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206b3ca (vertex names):
+[1] ABCC8--GAD2     ABCC8--MIR7-3HG GAD2 --MIR7-3HG
+
+[[917]]
+IGRAPH 206b63b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206b63b (vertex names):
+[1] ABCC8   --MIR7-3HG ABCC8   --KCNMB2   MIR7-3HG--KCNMB2  
+
+[[918]]
+IGRAPH 206b8ac UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206b8ac (vertex names):
+[1] ABCC8   --TMEM132D ABCC8   --MIR7-3HG TMEM132D--MIR7-3HG
+
+[[919]]
+IGRAPH 206bb1d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206bb1d (vertex names):
+[1] ABCC8--KIF1A    ABCC8--MIR7-3HG KIF1A--MIR7-3HG
+
+[[920]]
+IGRAPH 206bb1d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206bb1d (vertex names):
+[1] ABCC8--SST      ABCC8--MIR7-3HG SST  --MIR7-3HG
+
+[[921]]
+IGRAPH 206bd8f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206bd8f (vertex names):
+[1] ABCC8   --MIR7-3HG ABCC8   --MAFA     MIR7-3HG--MAFA    
+
+[[922]]
+IGRAPH 206bd8f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206bd8f (vertex names):
+[1] ABCC8   --MIR7-3HG ABCC8   --TUNAR    MIR7-3HG--TUNAR   
+
+[[923]]
+IGRAPH 206c000 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206c000 (vertex names):
+[1] ABCC8--PCSK2    ABCC8--MIR7-3HG PCSK2--MIR7-3HG
+
+[[924]]
+IGRAPH 206c000 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206c000 (vertex names):
+[1] ABCC8  --SLC30A8  ABCC8  --MIR7-3HG SLC30A8--MIR7-3HG
+
+[[925]]
+IGRAPH 206c000 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206c000 (vertex names):
+[1] ABCC8 --ELAVL4   ABCC8 --MIR7-3HG ELAVL4--MIR7-3HG
+
+[[926]]
+IGRAPH 206c271 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206c271 (vertex names):
+[1] ABCC8 --ERO1LB   ABCC8 --MIR7-3HG ERO1LB--MIR7-3HG
+
+[[927]]
+IGRAPH 206c271 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206c271 (vertex names):
+[1] ABCC8  --HMGCLL1  ABCC8  --MIR7-3HG HMGCLL1--MIR7-3HG
+
+[[928]]
+IGRAPH 206c4e2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206c4e2 (vertex names):
+[1] ABCC8--CABP7    ABCC8--MIR7-3HG CABP7--MIR7-3HG
+
+[[929]]
+IGRAPH 206c4e2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206c4e2 (vertex names):
+[1] ABCC8   --MIR7-3HG        ABCC8   --ENSG00000254647 MIR7-3HG--ENSG00000254647
+
+[[930]]
+IGRAPH 206c753 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206c753 (vertex names):
+[1] ABCC8          --ENSG00000152254 ABCC8          --MIR7-3HG       
+[3] ENSG00000152254--MIR7-3HG       
+
+[[931]]
+IGRAPH 206c9c4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206c9c4 (vertex names):
+[1] ABCC8  --PPP1R1A  ABCC8  --MIR7-3HG PPP1R1A--MIR7-3HG
+
+[[932]]
+IGRAPH 206c9c4 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206c9c4 (vertex names):
+[1] ABCC8--INSM1    ABCC8--MIR7-3HG INSM1--MIR7-3HG
+
+[[933]]
+IGRAPH 206cc35 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206cc35 (vertex names):
+[1] ABCC8--INSM1    ABCC8--MIR7-3HG INSM1--MIR7-3HG
+
+[[934]]
+IGRAPH 206cc35 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206cc35 (vertex names):
+[1] ABCC8 --KCNK16 ABCC8 --INSM1  KCNK16--INSM1 
+
+[[935]]
+IGRAPH 206cea6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206cea6 (vertex names):
+[1] ABCC8--CPLX2 ABCC8--INSM1 CPLX2--INSM1
+
+[[936]]
+IGRAPH 206cea6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206cea6 (vertex names):
+[1] ABCC8--CFC1  ABCC8--INSM1 CFC1 --INSM1
+
+[[937]]
+IGRAPH 206d117 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206d117 (vertex names):
+[1] ABCC8          --ENSG00000145198 ABCC8          --INSM1          
+[3] ENSG00000145198--INSM1          
+
+[[938]]
+IGRAPH 206d117 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206d117 (vertex names):
+[1] ABCC8  --PPP1R1A ABCC8  --INSM1   PPP1R1A--INSM1  
+
+[[939]]
+IGRAPH 206d388 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206d388 (vertex names):
+[1] ABCC8--SST   ABCC8--INSM1 SST  --INSM1
+
+[[940]]
+IGRAPH 206d388 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206d388 (vertex names):
+[1] ABCC8--SST     ABCC8--SLC30A8 SST  --SLC30A8
+
+[[941]]
+IGRAPH 206d388 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206d388 (vertex names):
+[1] ABCC8  --SLC30A8  ABCC8  --MIR7-3HG SLC30A8--MIR7-3HG
+
+[[942]]
+IGRAPH 206d5f9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206d5f9 (vertex names):
+[1] ABCC8 --KCNK16  ABCC8 --SLC30A8 KCNK16--SLC30A8
+
+[[943]]
+IGRAPH 206d5f9 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206d5f9 (vertex names):
+[1] ABCC8--CPLX2   ABCC8--SLC30A8 CPLX2--SLC30A8
+
+[[944]]
+IGRAPH 206d86a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206d86a (vertex names):
+[1] ABCC8--CFC1    ABCC8--SLC30A8 CFC1 --SLC30A8
+
+[[945]]
+IGRAPH 206dadb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206dadb (vertex names):
+[1] ABCC8--SCG3    ABCC8--SLC30A8 SCG3 --SLC30A8
+
+[[946]]
+IGRAPH 206dadb UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206dadb (vertex names):
+[1] ABCC8  --PPP1R1A ABCC8  --SLC30A8 PPP1R1A--SLC30A8
+
+[[947]]
+IGRAPH 206dd4c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206dd4c (vertex names):
+[1] ABCC8--KIF1A   ABCC8--SLC30A8 KIF1A--SLC30A8
+
+[[948]]
+IGRAPH 206dd4c UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206dd4c (vertex names):
+[1] ABCC8   --TMEM132D ABCC8   --SLC30A8  TMEM132D--SLC30A8 
+
+[[949]]
+IGRAPH 206dfbd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206dfbd (vertex names):
+[1] ABCC8  --SLC30A8 ABCC8  --MAFA    SLC30A8--MAFA   
+
+[[950]]
+IGRAPH 206dfbd UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206dfbd (vertex names):
+[1] ABCC8  --SLC30A8 ABCC8  --TUNAR   SLC30A8--TUNAR  
+
+[[951]]
+IGRAPH 206e22e UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206e22e (vertex names):
+[1] ABCC8--PCSK2   ABCC8--SLC30A8 PCSK2--SLC30A8
+
+[[952]]
+IGRAPH 206e49f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206e49f (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --SLC30A8 SLC4A10--SLC30A8
+
+[[953]]
+IGRAPH 206e49f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206e49f (vertex names):
+[1] ABCC8  --NEUROD1 ABCC8  --SLC30A8 NEUROD1--SLC30A8
+
+[[954]]
+IGRAPH 206e710 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206e710 (vertex names):
+[1] ABCC8--CDH22   ABCC8--SLC30A8 CDH22--SLC30A8
+
+[[955]]
+IGRAPH 206e981 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206e981 (vertex names):
+[1] ABCC8  --HMGCLL1 ABCC8  --SLC30A8 HMGCLL1--SLC30A8
+
+[[956]]
+IGRAPH 206e981 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206e981 (vertex names):
+[1] ABCC8--CABP7   ABCC8--SLC30A8 CABP7--SLC30A8
+
+[[957]]
+IGRAPH 206ebf2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206ebf2 (vertex names):
+[1] ABCC8  --SLC30A8         ABCC8  --ENSG00000254647 SLC30A8--ENSG00000254647
+
+[[958]]
+IGRAPH 206ebf2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206ebf2 (vertex names):
+[1] ABCC8          --ENSG00000152254 ABCC8          --SLC30A8        
+[3] ENSG00000152254--SLC30A8        
+
+[[959]]
+IGRAPH 206ebf2 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206ebf2 (vertex names):
+[1] ABCC8  --SLC30A8 ABCC8  --KCNMB2  SLC30A8--KCNMB2 
+
+[[960]]
+IGRAPH 206ee64 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206ee64 (vertex names):
+[1] ABCC8--GAD2    ABCC8--SLC30A8 GAD2 --SLC30A8
+
+[[961]]
+IGRAPH 206ee64 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206ee64 (vertex names):
+[1] ABCC8--PAX6    ABCC8--SLC30A8 PAX6 --SLC30A8
+
+[[962]]
+IGRAPH 206f0d5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206f0d5 (vertex names):
+[1] ABCC8  --SLC30A8         ABCC8  --ENSG00000183473 SLC30A8--ENSG00000183473
+
+[[963]]
+IGRAPH 206f0d5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206f0d5 (vertex names):
+[1] ABCC8  --NEUROD1         ABCC8  --ENSG00000183473 NEUROD1--ENSG00000183473
+
+[[964]]
+IGRAPH 206f0d5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206f0d5 (vertex names):
+[1] ABCC8--GAD2    ABCC8--NEUROD1 GAD2 --NEUROD1
+
+[[965]]
+IGRAPH 206f346 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206f346 (vertex names):
+[1] ABCC8  --NEUROD1 ABCC8  --KCNMB2  NEUROD1--KCNMB2 
+
+[[966]]
+IGRAPH 206f346 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206f346 (vertex names):
+[1] ABCC8  --NEUROD1         ABCC8  --ENSG00000254647 NEUROD1--ENSG00000254647
+
+[[967]]
+IGRAPH 206f5b7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206f5b7 (vertex names):
+[1] ABCC8--CPLX2   ABCC8--NEUROD1 CPLX2--NEUROD1
+
+[[968]]
+IGRAPH 206f5b7 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206f5b7 (vertex names):
+[1] ABCC8--CFC1    ABCC8--NEUROD1 CFC1 --NEUROD1
+
+[[969]]
+IGRAPH 206f828 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206f828 (vertex names):
+[1] ABCC8--SCG3    ABCC8--NEUROD1 SCG3 --NEUROD1
+
+[[970]]
+IGRAPH 206f828 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206f828 (vertex names):
+[1] ABCC8  --HMGCLL1 ABCC8  --NEUROD1 HMGCLL1--NEUROD1
+
+[[971]]
+IGRAPH 206f828 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206f828 (vertex names):
+[1] ABCC8--KIF1A   ABCC8--NEUROD1 KIF1A--NEUROD1
+
+[[972]]
+IGRAPH 206fa99 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206fa99 (vertex names):
+[1] ABCC8   --TMEM132D ABCC8   --NEUROD1  TMEM132D--NEUROD1 
+
+[[973]]
+IGRAPH 206fa99 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206fa99 (vertex names):
+[1] ABCC8  --NEUROD1 ABCC8  --MAFA    NEUROD1--MAFA   
+
+[[974]]
+IGRAPH 206fd0a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206fd0a (vertex names):
+[1] ABCC8  --NEUROD1 ABCC8  --TUNAR   NEUROD1--TUNAR  
+
+[[975]]
+IGRAPH 206fd0a UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206fd0a (vertex names):
+[1] ABCC8--PCSK2   ABCC8--NEUROD1 PCSK2--NEUROD1
+
+[[976]]
+IGRAPH 206ff7b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206ff7b (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --NEUROD1 SLC4A10--NEUROD1
+
+[[977]]
+IGRAPH 206ff7b UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 206ff7b (vertex names):
+[1] ABCC8  --NEUROD1 ABCC8  --SLC30A8 NEUROD1--SLC30A8
+
+[[978]]
+IGRAPH 20701ec UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20701ec (vertex names):
+[1] ABCC8 --ELAVL4   ABCC8 --MIR7-3HG ELAVL4--MIR7-3HG
+
+[[979]]
+IGRAPH 207045d UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 207045d (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --ELAVL4  SLC4A10--ELAVL4 
+
+[[980]]
+IGRAPH 20706ce UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20706ce (vertex names):
+[1] ABCC8--GAD2   ABCC8--ELAVL4 GAD2 --ELAVL4
+
+[[981]]
+IGRAPH 207093f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 207093f (vertex names):
+[1] ABCC8   --TMEM132D ABCC8   --ELAVL4   TMEM132D--ELAVL4  
+
+[[982]]
+IGRAPH 207093f UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 207093f (vertex names):
+[1] ABCC8--KIF1A  ABCC8--ELAVL4 KIF1A--ELAVL4
+
+[[983]]
+IGRAPH 2070940 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2070940 (vertex names):
+[1] ABCC8--SCG3   ABCC8--ELAVL4 SCG3 --ELAVL4
+
+[[984]]
+IGRAPH 2070bb0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2070bb0 (vertex names):
+[1] ABCC8--SCG3 ABCC8--SST  SCG3 --SST 
+
+[[985]]
+IGRAPH 2070bb0 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2070bb0 (vertex names):
+[1] ABCC8--SST      ABCC8--MIR7-3HG SST  --MIR7-3HG
+
+[[986]]
+IGRAPH 2070e21 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2070e21 (vertex names):
+[1] ABCC8  --SLC4A10 ABCC8  --SST     SLC4A10--SST    
+
+[[987]]
+IGRAPH 2070e21 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2070e21 (vertex names):
+[1] ABCC8--SST     ABCC8--SLC30A8 SST  --SLC30A8
+
+[[988]]
+IGRAPH 2071092 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2071092 (vertex names):
+[1] ABCC8          --ENSG00000145198 ABCC8          --SST            
+[3] ENSG00000145198--SST            
+
+[[989]]
+IGRAPH 2071092 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2071092 (vertex names):
+[1] ABCC8--SST   ABCC8--INSM1 SST  --INSM1
+
+[[990]]
+IGRAPH 2071093 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2071093 (vertex names):
+[1] ABCC8--CFC1 ABCC8--SST  CFC1 --SST 
+
+[[991]]
+IGRAPH 2071303 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2071303 (vertex names):
+[1] ABCC8--PAX6 ABCC8--SST  PAX6 --SST 
+
+[[992]]
+IGRAPH 2071303 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2071303 (vertex names):
+[1] ABCC8--CPLX2 ABCC8--SST   CPLX2--SST  
+
+[[993]]
+IGRAPH 2071304 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2071304 (vertex names):
+[1] ABCC8--SST             ABCC8--ENSG00000254647 SST  --ENSG00000254647
+
+[[994]]
+IGRAPH 2071574 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2071574 (vertex names):
+[1] ABCC8 --KCNK16 ABCC8 --SST    KCNK16--SST   
+
+[[995]]
+IGRAPH 2071574 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2071574 (vertex names):
+[1] ABCC8  --PPP1R1A ABCC8  --SST     PPP1R1A--SST    
+
+[[996]]
+IGRAPH 20717e5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20717e5 (vertex names):
+[1] ABCC8--PCSK2 ABCC8--SST   PCSK2--SST  
+
+[[997]]
+IGRAPH 20717e5 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20717e5 (vertex names):
+[1] ABCC8--SST    ABCC8--KCNMB2 SST  --KCNMB2
+
+[[998]]
+IGRAPH 20717e6 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 20717e6 (vertex names):
+[1] ABCC8--CABP7 ABCC8--SST   CABP7--SST  
+
+[[999]]
+IGRAPH 2071a56 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2071a56 (vertex names):
+[1] ABCC8--CABP7           ABCC8--ENSG00000152254 CABP7--ENSG00000152254
+
+[[1000]]
+IGRAPH 2071a56 UN-- 3 3 -- 
++ attr: name (v/c), Correlation (e/n)
++ edges from 2071a56 (vertex names):
+[1] ABCC8--GAD2            ABCC8--ENSG00000152254 GAD2 --ENSG00000152254
+
+ [ reached getOption("max.print") -- omitted 274778 entries ]
